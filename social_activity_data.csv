@@ -1,0 +1,2526 @@
+Person_ID,Activity_Type,Activity_Frequency,Activity_Rating,Has_Social_Circle
+Frist_1 Last name_133,Social Media,Monthly,2,No
+Frist_1 Last name_133,Reading,Weekly,2,Yes
+Frist_1 Last name_133,Music,Weekly,3,No
+Frist_1 Last name_133,Volunteering,Daily,1,No
+Frist_2 Last name_102,Social Media,Daily,5,No
+Frist_2 Last name_246,Outdoor Sports,Daily,2,No
+Frist_2 Last name_246,Social Media,Weekly,4,Yes
+Frist_2 Last name_246,Movies,Daily,4,Yes
+Frist_2 Last name_246,Cooking,Rarely,5,Yes
+Frist_2 Last name_291,Outdoor Sports,Daily,1,No
+Frist_2 Last name_138,Reading,Daily,2,Yes
+Frist_1 Last name_141,Outdoor Sports,Rarely,5,No
+Frist_1 Last name_141,Traveling,Rarely,4,No
+Frist_1 Last name_141,Social Media,Weekly,5,Yes
+Frist_1 Last name_141,Movies,Rarely,2,No
+Frist_1 Last name_141,Volunteering,Weekly,1,No
+Frist_1 Last name_141,Cooking,Weekly,3,No
+Frist_1 Last name_141,Music,Rarely,1,Yes
+Frist_2 Last name_147,Movies,Monthly,1,No
+Frist_2 Last name_147,Traveling,Monthly,2,No
+Frist_2 Last name_147,Outdoor Sports,Rarely,1,Yes
+Frist_2 Last name_147,Reading,Monthly,2,No
+Frist_2 Last name_147,Cooking,Monthly,1,Yes
+Frist_2 Last name_147,Music,Monthly,2,No
+Frist_2 Last name_147,Social Media,Daily,3,Yes
+Frist_2 Last name_147,Volunteering,Monthly,2,No
+Frist_1 Last name_25,Social Media,Daily,1,No
+Frist_1 Last name_25,Traveling,Weekly,2,No
+Frist_2 Last name_210,Reading,Rarely,2,No
+Frist_2 Last name_210,Social Media,Monthly,2,Yes
+Frist_2 Last name_210,Outdoor Sports,Weekly,4,No
+Frist_2 Last name_210,Volunteering,Rarely,1,Yes
+Frist_1 Last name_33,Music,Monthly,1,No
+Frist_1 Last name_33,Social Media,Weekly,4,Yes
+Frist_1 Last name_33,Reading,Weekly,2,No
+Frist_1 Last name_97,Volunteering,Rarely,4,No
+Frist_1 Last name_97,Outdoor Sports,Daily,3,Yes
+Frist_1 Last name_97,Reading,Rarely,4,No
+Frist_1 Last name_97,Music,Daily,1,No
+Frist_1 Last name_97,Movies,Rarely,1,Yes
+Frist_1 Last name_97,Cooking,Daily,1,No
+Frist_1 Last name_97,Traveling,Monthly,3,Yes
+Frist_1 Last name_97,Social Media,Rarely,1,No
+Frist_1 Last name_69,Music,Daily,5,Yes
+Frist_1 Last name_69,Cooking,Monthly,1,Yes
+Frist_1 Last name_69,Social Media,Monthly,4,Yes
+Frist_1 Last name_69,Reading,Rarely,5,Yes
+Frist_1 Last name_69,Movies,Monthly,2,No
+Frist_1 Last name_69,Traveling,Monthly,4,No
+Frist_1 Last name_69,Outdoor Sports,Weekly,3,Yes
+Frist_1 Last name_69,Volunteering,Weekly,3,Yes
+Frist_1 Last name_142,Cooking,Daily,4,Yes
+Frist_1 Last name_142,Volunteering,Monthly,1,No
+Frist_1 Last name_142,Social Media,Rarely,4,No
+Frist_1 Last name_142,Traveling,Monthly,2,No
+Frist_1 Last name_142,Music,Rarely,2,Yes
+Frist_1 Last name_142,Movies,Monthly,3,No
+Frist_1 Last name_142,Outdoor Sports,Weekly,4,No
+Frist_2 Last name_111,Outdoor Sports,Daily,4,Yes
+Frist_1 Last name_34,Volunteering,Daily,1,No
+Frist_1 Last name_34,Social Media,Rarely,5,Yes
+Frist_1 Last name_34,Traveling,Weekly,3,Yes
+Frist_1 Last name_34,Outdoor Sports,Rarely,2,No
+Frist_1 Last name_34,Movies,Weekly,5,Yes
+Frist_1 Last name_34,Cooking,Monthly,3,Yes
+Frist_2 Last name_227,Music,Weekly,1,Yes
+Frist_2 Last name_227,Outdoor Sports,Weekly,4,No
+Frist_2 Last name_227,Volunteering,Monthly,3,Yes
+Frist_2 Last name_227,Movies,Monthly,1,No
+Frist_2 Last name_227,Social Media,Monthly,3,No
+Frist_2 Last name_227,Cooking,Daily,3,No
+Frist_2 Last name_227,Traveling,Monthly,4,No
+Frist_2 Last name_227,Reading,Monthly,3,Yes
+Frist_2 Last name_263,Traveling,Rarely,2,No
+Frist_2 Last name_263,Social Media,Rarely,5,No
+Frist_2 Last name_263,Cooking,Weekly,1,Yes
+Frist_2 Last name_263,Music,Weekly,1,Yes
+Frist_2 Last name_263,Reading,Monthly,5,Yes
+Frist_2 Last name_263,Volunteering,Rarely,3,No
+Frist_2 Last name_263,Outdoor Sports,Daily,4,Yes
+Frist_1 Last name_70,Social Media,Daily,1,No
+Frist_1 Last name_70,Movies,Weekly,5,No
+Frist_1 Last name_70,Volunteering,Monthly,2,No
+Frist_1 Last name_70,Outdoor Sports,Weekly,4,No
+Frist_1 Last name_70,Reading,Weekly,3,No
+Frist_1 Last name_213,Reading,Daily,4,Yes
+Frist_1 Last name_213,Social Media,Monthly,3,Yes
+Frist_1 Last name_213,Movies,Monthly,1,No
+Frist_1 Last name_213,Traveling,Daily,2,No
+Frist_1 Last name_213,Cooking,Monthly,5,No
+Frist_1 Last name_213,Music,Monthly,3,Yes
+Frist_1 Last name_213,Volunteering,Rarely,3,No
+Frist_1 Last name_213,Outdoor Sports,Rarely,2,No
+Frist_1 Last name_169,Cooking,Weekly,1,Yes
+Frist_1 Last name_169,Volunteering,Monthly,3,Yes
+Frist_1 Last name_61,Outdoor Sports,Weekly,3,No
+Frist_1 Last name_205,Outdoor Sports,Rarely,3,Yes
+Frist_1 Last name_205,Music,Weekly,4,No
+Frist_1 Last name_205,Reading,Rarely,4,Yes
+Frist_1 Last name_249,Volunteering,Rarely,5,Yes
+Frist_1 Last name_249,Outdoor Sports,Rarely,4,Yes
+Frist_1 Last name_249,Music,Monthly,5,Yes
+Frist_1 Last name_249,Social Media,Weekly,5,No
+Frist_1 Last name_249,Traveling,Rarely,3,No
+Frist_1 Last name_249,Reading,Monthly,3,No
+Frist_1 Last name_249,Cooking,Monthly,1,No
+Frist_1 Last name_249,Movies,Weekly,4,No
+Frist_1 Last name_177,Reading,Weekly,5,Yes
+Frist_1 Last name_177,Music,Weekly,2,No
+Frist_1 Last name_177,Volunteering,Daily,3,Yes
+Frist_1 Last name_105,Reading,Rarely,2,No
+Frist_1 Last name_105,Music,Rarely,1,No
+Frist_1 Last name_105,Cooking,Daily,3,No
+Frist_1 Last name_241,Movies,Rarely,5,No
+Frist_1 Last name_241,Music,Monthly,3,Yes
+Frist_1 Last name_241,Cooking,Weekly,4,Yes
+Frist_1 Last name_241,Volunteering,Monthly,1,Yes
+Frist_1 Last name_241,Reading,Monthly,2,Yes
+Frist_2 Last name_75,Volunteering,Monthly,2,No
+Frist_2 Last name_75,Music,Daily,3,Yes
+Frist_2 Last name_75,Traveling,Monthly,3,Yes
+Frist_2 Last name_75,Reading,Monthly,1,No
+Frist_2 Last name_255,Movies,Daily,3,Yes
+Frist_2 Last name_255,Reading,Daily,2,No
+Frist_2 Last name_255,Cooking,Daily,4,No
+Frist_2 Last name_255,Social Media,Weekly,5,Yes
+Frist_2 Last name_255,Outdoor Sports,Monthly,1,No
+Frist_2 Last name_39,Music,Weekly,3,No
+Frist_2 Last name_39,Social Media,Weekly,5,Yes
+Frist_2 Last name_39,Traveling,Daily,4,No
+Frist_2 Last name_39,Reading,Weekly,3,No
+Frist_2 Last name_39,Movies,Monthly,1,Yes
+Frist_2 Last name_39,Cooking,Daily,3,Yes
+Frist_2 Last name_39,Volunteering,Rarely,5,Yes
+Frist_2 Last name_39,Outdoor Sports,Monthly,1,Yes
+Frist_2 Last name_66,Reading,Rarely,2,Yes
+Frist_2 Last name_66,Cooking,Weekly,1,No
+Frist_2 Last name_66,Volunteering,Monthly,5,No
+Frist_2 Last name_66,Traveling,Daily,1,No
+Frist_2 Last name_66,Movies,Monthly,4,No
+Frist_2 Last name_174,Volunteering,Monthly,2,No
+Frist_1 Last name_114,Traveling,Daily,5,Yes
+Frist_2 Last name_219,Outdoor Sports,Monthly,2,No
+Frist_2 Last name_219,Music,Rarely,1,No
+Frist_2 Last name_219,Volunteering,Weekly,4,Yes
+Frist_2 Last name_219,Cooking,Weekly,1,No
+Frist_2 Last name_219,Reading,Daily,5,No
+Frist_2 Last name_219,Traveling,Monthly,3,Yes
+Frist_2 Last name_219,Social Media,Monthly,3,Yes
+Frist_2 Last name_219,Movies,Monthly,2,Yes
+Frist_2 Last name_47,Reading,Daily,4,No
+Frist_2 Last name_47,Traveling,Rarely,2,No
+Frist_2 Last name_47,Social Media,Weekly,4,No
+Frist_2 Last name_183,Movies,Monthly,1,No
+Frist_2 Last name_183,Traveling,Daily,4,Yes
+Frist_2 Last name_183,Volunteering,Rarely,5,No
+Frist_2 Last name_183,Cooking,Weekly,4,Yes
+Frist_2 Last name_183,Music,Monthly,4,Yes
+Frist_2 Last name_183,Outdoor Sports,Daily,2,No
+Frist_2 Last name_183,Reading,Daily,2,No
+Frist_1 Last name_277,Music,Monthly,2,Yes
+Frist_1 Last name_277,Volunteering,Weekly,5,No
+Frist_2 Last name_11,Reading,Monthly,4,No
+Frist_2 Last name_119,Reading,Daily,2,Yes
+Frist_2 Last name_83,Social Media,Daily,3,Yes
+Frist_2 Last name_83,Music,Daily,4,Yes
+Frist_2 Last name_83,Reading,Monthly,4,Yes
+Frist_2 Last name_146,Volunteering,Weekly,5,No
+Frist_2 Last name_146,Social Media,Monthly,5,No
+Frist_2 Last name_146,Music,Daily,2,No
+Frist_2 Last name_146,Movies,Weekly,2,Yes
+Frist_2 Last name_146,Outdoor Sports,Rarely,1,No
+Frist_2 Last name_146,Reading,Daily,1,Yes
+Frist_2 Last name_290,Cooking,Daily,1,Yes
+Frist_2 Last name_290,Social Media,Monthly,1,Yes
+Frist_2 Last name_290,Reading,Daily,2,No
+Frist_2 Last name_290,Volunteering,Daily,1,No
+Frist_2 Last name_290,Movies,Weekly,1,No
+Frist_2 Last name_254,Reading,Daily,1,Yes
+Frist_2 Last name_254,Outdoor Sports,Weekly,1,Yes
+Frist_2 Last name_254,Cooking,Monthly,5,Yes
+Frist_2 Last name_254,Social Media,Weekly,5,Yes
+Frist_2 Last name_254,Music,Monthly,4,Yes
+Frist_2 Last name_254,Movies,Daily,3,No
+Frist_2 Last name_254,Volunteering,Weekly,3,No
+Frist_2 Last name_254,Traveling,Rarely,2,Yes
+Frist_2 Last name_218,Traveling,Rarely,2,No
+Frist_2 Last name_218,Movies,Monthly,4,Yes
+Frist_2 Last name_218,Music,Monthly,4,No
+Frist_2 Last name_218,Volunteering,Weekly,4,Yes
+Frist_2 Last name_218,Social Media,Monthly,2,Yes
+Frist_2 Last name_218,Reading,Rarely,4,No
+Frist_2 Last name_182,Reading,Weekly,3,Yes
+Frist_2 Last name_182,Outdoor Sports,Monthly,3,No
+Frist_1 Last name_78,Movies,Daily,5,No
+Frist_1 Last name_78,Music,Weekly,3,No
+Frist_1 Last name_78,Social Media,Weekly,3,Yes
+Frist_1 Last name_78,Volunteering,Daily,4,No
+Frist_2 Last name_74,Outdoor Sports,Monthly,2,Yes
+Frist_2 Last name_74,Movies,Monthly,3,Yes
+Frist_2 Last name_74,Traveling,Rarely,5,Yes
+Frist_2 Last name_74,Social Media,Daily,4,Yes
+Frist_2 Last name_74,Music,Monthly,3,Yes
+Frist_2 Last name_74,Volunteering,Monthly,2,Yes
+Frist_2 Last name_74,Reading,Weekly,2,No
+Frist_2 Last name_74,Cooking,Daily,3,No
+Frist_2 Last name_110,Reading,Rarely,1,No
+Frist_2 Last name_110,Social Media,Weekly,2,Yes
+Frist_2 Last name_110,Traveling,Rarely,5,No
+Frist_2 Last name_110,Movies,Monthly,1,Yes
+Frist_2 Last name_110,Outdoor Sports,Weekly,1,Yes
+Frist_2 Last name_110,Cooking,Rarely,4,Yes
+Frist_2 Last name_110,Music,Daily,5,No
+Frist_2 Last name_38,Reading,Monthly,3,Yes
+Frist_2 Last name_38,Traveling,Weekly,4,Yes
+Frist_2 Last name_38,Social Media,Rarely,5,Yes
+Frist_2 Last name_38,Movies,Rarely,4,Yes
+Frist_2 Last name_30,Cooking,Rarely,5,Yes
+Frist_2 Last name_30,Social Media,Weekly,4,No
+Frist_2 Last name_30,Outdoor Sports,Rarely,1,Yes
+Frist_2 Last name_30,Traveling,Rarely,2,Yes
+Frist_2 Last name_30,Volunteering,Rarely,5,Yes
+Frist_2 Last name_30,Reading,Monthly,1,Yes
+Frist_2 Last name_30,Movies,Rarely,4,No
+Frist_1 Last name_178,Outdoor Sports,Weekly,4,Yes
+Frist_1 Last name_178,Traveling,Rarely,1,No
+Frist_1 Last name_178,Social Media,Rarely,1,No
+Frist_1 Last name_106,Music,Monthly,2,No
+Frist_1 Last name_106,Movies,Weekly,2,Yes
+Frist_1 Last name_106,Cooking,Weekly,1,Yes
+Frist_1 Last name_106,Social Media,Monthly,5,No
+Frist_1 Last name_106,Traveling,Rarely,5,Yes
+Frist_1 Last name_150,Traveling,Monthly,1,Yes
+Frist_1 Last name_222,Traveling,Weekly,4,No
+Frist_1 Last name_258,Movies,Rarely,5,Yes
+Frist_1 Last name_258,Music,Monthly,4,No
+Frist_1 Last name_258,Outdoor Sports,Weekly,2,No
+Frist_1 Last name_258,Cooking,Monthly,3,Yes
+Frist_1 Last name_6,Outdoor Sports,Daily,3,No
+Frist_1 Last name_186,Traveling,Weekly,3,No
+Frist_1 Last name_186,Movies,Weekly,2,No
+Frist_1 Last name_186,Outdoor Sports,Rarely,1,No
+Frist_2 Last name_191,Social Media,Weekly,2,No
+Frist_2 Last name_155,Movies,Daily,4,No
+Frist_1 Last name_250,Traveling,Daily,1,No
+Frist_1 Last name_250,Music,Monthly,5,No
+Frist_1 Last name_250,Volunteering,Rarely,5,Yes
+Frist_1 Last name_250,Social Media,Weekly,5,No
+Frist_1 Last name_250,Outdoor Sports,Daily,3,Yes
+Frist_1 Last name_214,Reading,Weekly,2,Yes
+Frist_1 Last name_214,Outdoor Sports,Weekly,4,Yes
+Frist_1 Last name_214,Cooking,Daily,5,No
+Frist_1 Last name_145,Cooking,Weekly,2,No
+Frist_1 Last name_145,Movies,Weekly,2,No
+Frist_1 Last name_145,Social Media,Rarely,5,No
+Frist_1 Last name_145,Volunteering,Monthly,5,No
+Frist_1 Last name_134,Outdoor Sports,Weekly,3,No
+Frist_1 Last name_134,Reading,Rarely,1,No
+Frist_1 Last name_134,Social Media,Weekly,1,Yes
+Frist_1 Last name_134,Movies,Rarely,1,No
+Frist_1 Last name_134,Music,Rarely,3,No
+Frist_1 Last name_181,Reading,Rarely,4,Yes
+Frist_1 Last name_233,Social Media,Daily,5,No
+Frist_1 Last name_233,Cooking,Daily,3,No
+Frist_1 Last name_233,Reading,Weekly,3,No
+Frist_1 Last name_233,Movies,Daily,3,No
+Frist_1 Last name_233,Outdoor Sports,Monthly,4,No
+Frist_1 Last name_233,Music,Daily,5,No
+Frist_1 Last name_89,Movies,Monthly,5,Yes
+Frist_1 Last name_89,Social Media,Monthly,1,No
+Frist_1 Last name_89,Volunteering,Monthly,2,Yes
+Frist_1 Last name_89,Outdoor Sports,Rarely,5,No
+Frist_1 Last name_89,Traveling,Rarely,3,No
+Frist_1 Last name_217,Movies,Rarely,4,Yes
+Frist_1 Last name_217,Cooking,Weekly,4,No
+Frist_1 Last name_262,Traveling,Rarely,5,Yes
+Frist_1 Last name_262,Volunteering,Weekly,2,No
+Frist_1 Last name_262,Cooking,Weekly,4,No
+Frist_1 Last name_262,Outdoor Sports,Rarely,3,No
+Frist_1 Last name_262,Movies,Daily,3,Yes
+Frist_1 Last name_262,Social Media,Weekly,1,No
+Frist_1 Last name_262,Music,Rarely,2,No
+Frist_1 Last name_190,Music,Rarely,3,No
+Frist_1 Last name_190,Cooking,Rarely,3,Yes
+Frist_1 Last name_190,Volunteering,Rarely,2,No
+Frist_1 Last name_190,Outdoor Sports,Daily,3,No
+Frist_1 Last name_190,Social Media,Weekly,3,Yes
+Frist_2 Last name_123,Volunteering,Monthly,3,No
+Frist_2 Last name_123,Traveling,Weekly,4,No
+Frist_2 Last name_123,Cooking,Daily,2,No
+Frist_2 Last name_123,Outdoor Sports,Rarely,5,No
+Frist_2 Last name_123,Music,Rarely,2,Yes
+Frist_2 Last name_123,Reading,Rarely,1,Yes
+Frist_2 Last name_123,Social Media,Rarely,5,Yes
+Frist_2 Last name_123,Movies,Monthly,1,No
+Frist_2 Last name_103,Traveling,Monthly,3,No
+Frist_2 Last name_103,Cooking,Weekly,3,No
+Frist_2 Last name_103,Social Media,Rarely,4,No
+Frist_2 Last name_130,Outdoor Sports,Monthly,4,No
+Frist_2 Last name_130,Volunteering,Rarely,4,Yes
+Frist_2 Last name_130,Movies,Weekly,4,No
+Frist_2 Last name_130,Social Media,Daily,3,No
+Frist_2 Last name_130,Traveling,Weekly,5,Yes
+Frist_2 Last name_58,Cooking,Daily,2,No
+Frist_2 Last name_58,Outdoor Sports,Weekly,2,Yes
+Frist_2 Last name_58,Volunteering,Weekly,1,Yes
+Frist_2 Last name_58,Reading,Weekly,4,Yes
+Frist_2 Last name_58,Social Media,Rarely,1,Yes
+Frist_2 Last name_202,Volunteering,Daily,5,No
+Frist_2 Last name_202,Music,Rarely,5,No
+Frist_2 Last name_202,Movies,Weekly,5,No
+Frist_2 Last name_202,Cooking,Weekly,5,No
+Frist_2 Last name_202,Reading,Weekly,3,No
+Frist_2 Last name_202,Social Media,Weekly,5,Yes
+Frist_2 Last name_166,Volunteering,Weekly,5,Yes
+Frist_2 Last name_166,Reading,Rarely,2,No
+Frist_2 Last name_166,Music,Weekly,5,No
+Frist_2 Last name_78,Cooking,Weekly,5,Yes
+Frist_1 Last name_125,Traveling,Rarely,3,No
+Frist_1 Last name_125,Outdoor Sports,Weekly,4,Yes
+Frist_1 Last name_125,Movies,Weekly,4,Yes
+Frist_1 Last name_125,Volunteering,Rarely,3,Yes
+Frist_1 Last name_125,Cooking,Rarely,4,No
+Frist_1 Last name_125,Music,Monthly,5,No
+Frist_1 Last name_125,Reading,Rarely,5,No
+Frist_2 Last name_94,Traveling,Weekly,1,Yes
+Frist_2 Last name_94,Outdoor Sports,Monthly,3,Yes
+Frist_2 Last name_94,Music,Rarely,4,Yes
+Frist_1 Last name_197,Outdoor Sports,Daily,1,Yes
+Frist_1 Last name_197,Movies,Rarely,1,Yes
+Frist_1 Last name_197,Music,Weekly,3,No
+Frist_1 Last name_197,Reading,Daily,5,Yes
+Frist_1 Last name_197,Social Media,Weekly,3,Yes
+Frist_2 Last name_67,Cooking,Rarely,2,Yes
+Frist_1 Last name_226,Traveling,Daily,5,No
+Frist_1 Last name_226,Movies,Monthly,2,No
+Frist_1 Last name_154,Reading,Rarely,5,No
+Frist_1 Last name_154,Music,Weekly,1,Yes
+Frist_1 Last name_154,Movies,Weekly,5,No
+Frist_1 Last name_154,Social Media,Monthly,4,Yes
+Frist_1 Last name_289,Cooking,Daily,2,Yes
+Frist_1 Last name_73,Volunteering,Monthly,3,No
+Frist_1 Last name_73,Social Media,Weekly,5,Yes
+Frist_1 Last name_73,Music,Daily,3,Yes
+Frist_1 Last name_73,Cooking,Rarely,4,No
+Frist_1 Last name_73,Traveling,Monthly,2,No
+Frist_1 Last name_73,Outdoor Sports,Weekly,3,Yes
+Frist_1 Last name_73,Reading,Rarely,3,No
+Frist_1 Last name_73,Movies,Daily,2,Yes
+Frist_1 Last name_37,Traveling,Monthly,2,No
+Frist_1 Last name_37,Music,Daily,3,No
+Frist_1 Last name_37,Volunteering,Daily,2,No
+Frist_1 Last name_37,Outdoor Sports,Daily,3,Yes
+Frist_1 Last name_269,Volunteering,Rarely,1,No
+Frist_1 Last name_269,Social Media,Rarely,3,Yes
+Frist_1 Last name_269,Outdoor Sports,Daily,4,No
+Frist_1 Last name_269,Movies,Weekly,2,Yes
+Frist_1 Last name_269,Cooking,Weekly,1,Yes
+Frist_1 Last name_109,Reading,Weekly,3,Yes
+Frist_1 Last name_161,Cooking,Rarely,5,No
+Frist_1 Last name_161,Movies,Weekly,1,No
+Frist_1 Last name_161,Volunteering,Daily,2,Yes
+Frist_1 Last name_161,Outdoor Sports,Monthly,1,No
+Frist_1 Last name_161,Music,Monthly,5,No
+Frist_1 Last name_161,Traveling,Rarely,1,Yes
+Frist_1 Last name_161,Reading,Weekly,1,No
+Frist_1 Last name_253,Reading,Monthly,4,Yes
+Frist_1 Last name_253,Movies,Daily,1,No
+Frist_1 Last name_253,Music,Weekly,2,No
+Frist_1 Last name_253,Traveling,Rarely,1,Yes
+Frist_1 Last name_253,Cooking,Rarely,5,Yes
+Frist_1 Last name_118,Music,Rarely,2,No
+Frist_1 Last name_118,Volunteering,Monthly,3,Yes
+Frist_1 Last name_118,Reading,Daily,5,No
+Frist_1 Last name_118,Traveling,Monthly,2,No
+Frist_1 Last name_118,Outdoor Sports,Rarely,4,Yes
+Frist_1 Last name_118,Movies,Daily,4,No
+Frist_1 Last name_118,Social Media,Monthly,4,No
+Frist_1 Last name_118,Cooking,Rarely,5,Yes
+Frist_1 Last name_53,Volunteering,Daily,4,No
+Frist_1 Last name_53,Traveling,Rarely,5,Yes
+Frist_1 Last name_53,Social Media,Daily,2,Yes
+Frist_1 Last name_53,Reading,Weekly,4,No
+Frist_1 Last name_53,Outdoor Sports,Rarely,1,No
+Frist_1 Last name_53,Movies,Monthly,2,No
+Frist_1 Last name_53,Music,Rarely,5,Yes
+Frist_1 Last name_53,Cooking,Monthly,5,Yes
+Frist_1 Last name_17,Movies,Weekly,5,Yes
+Frist_1 Last name_17,Music,Weekly,5,Yes
+Frist_1 Last name_17,Reading,Daily,5,No
+Frist_1 Last name_17,Traveling,Weekly,2,No
+Frist_1 Last name_17,Outdoor Sports,Daily,5,No
+Frist_1 Last name_17,Volunteering,Weekly,4,No
+Frist_1 Last name_17,Social Media,Weekly,1,Yes
+Frist_2 Last name_238,Cooking,Daily,5,Yes
+Frist_2 Last name_238,Traveling,Rarely,1,Yes
+Frist_2 Last name_238,Reading,Weekly,3,Yes
+Frist_2 Last name_238,Outdoor Sports,Weekly,2,No
+Frist_2 Last name_238,Social Media,Monthly,4,Yes
+Frist_2 Last name_238,Volunteering,Monthly,5,No
+Frist_2 Last name_159,Traveling,Weekly,2,No
+Frist_2 Last name_159,Cooking,Daily,5,No
+Frist_2 Last name_159,Music,Rarely,1,Yes
+Frist_2 Last name_159,Volunteering,Monthly,1,No
+Frist_2 Last name_6,Music,Monthly,4,Yes
+Frist_2 Last name_6,Reading,Daily,5,No
+Frist_2 Last name_6,Cooking,Daily,5,No
+Frist_2 Last name_6,Social Media,Rarely,2,No
+Frist_2 Last name_6,Outdoor Sports,Rarely,1,Yes
+Frist_2 Last name_6,Volunteering,Weekly,1,Yes
+Frist_2 Last name_6,Movies,Weekly,4,No
+Frist_2 Last name_222,Movies,Daily,2,Yes
+Frist_2 Last name_222,Traveling,Rarely,4,No
+Frist_2 Last name_222,Outdoor Sports,Weekly,3,No
+Frist_2 Last name_231,Movies,Weekly,2,No
+Frist_2 Last name_231,Volunteering,Daily,2,No
+Frist_2 Last name_231,Outdoor Sports,Rarely,2,No
+Frist_2 Last name_195,Music,Rarely,2,No
+Frist_2 Last name_195,Traveling,Weekly,5,No
+Frist_2 Last name_195,Reading,Weekly,5,Yes
+Frist_2 Last name_195,Cooking,Rarely,1,Yes
+Frist_2 Last name_195,Outdoor Sports,Weekly,1,Yes
+Frist_1 Last name_206,Cooking,Rarely,2,No
+Frist_1 Last name_206,Movies,Weekly,3,No
+Frist_1 Last name_206,Volunteering,Daily,3,No
+Frist_1 Last name_206,Outdoor Sports,Rarely,2,No
+Frist_1 Last name_206,Social Media,Rarely,4,No
+Frist_1 Last name_206,Reading,Rarely,5,Yes
+Frist_1 Last name_206,Music,Monthly,4,Yes
+Frist_1 Last name_206,Traveling,Daily,5,Yes
+Frist_1 Last name_242,Music,Daily,5,Yes
+Frist_1 Last name_278,Outdoor Sports,Rarely,1,No
+Frist_1 Last name_278,Movies,Monthly,4,Yes
+Frist_1 Last name_26,Music,Weekly,1,Yes
+Frist_1 Last name_26,Cooking,Daily,3,No
+Frist_1 Last name_26,Movies,Monthly,1,No
+Frist_1 Last name_26,Traveling,Monthly,5,No
+Frist_1 Last name_26,Outdoor Sports,Monthly,2,Yes
+Frist_1 Last name_26,Volunteering,Rarely,1,No
+Frist_1 Last name_26,Reading,Rarely,1,No
+Frist_1 Last name_82,Music,Monthly,1,Yes
+Frist_1 Last name_82,Cooking,Weekly,2,No
+Frist_1 Last name_82,Volunteering,Daily,2,Yes
+Frist_1 Last name_82,Traveling,Daily,4,No
+Frist_1 Last name_82,Outdoor Sports,Daily,4,No
+Frist_1 Last name_82,Social Media,Daily,3,No
+Frist_1 Last name_46,Traveling,Daily,3,Yes
+Frist_1 Last name_46,Outdoor Sports,Rarely,5,Yes
+Frist_1 Last name_46,Cooking,Rarely,2,Yes
+Frist_1 Last name_10,Outdoor Sports,Rarely,3,No
+Frist_1 Last name_10,Cooking,Weekly,2,Yes
+Frist_1 Last name_10,Reading,Daily,4,Yes
+Frist_1 Last name_10,Music,Daily,1,No
+Frist_2 Last name_258,Cooking,Daily,5,Yes
+Frist_2 Last name_258,Traveling,Monthly,5,No
+Frist_2 Last name_258,Music,Weekly,4,Yes
+Frist_2 Last name_258,Social Media,Rarely,3,Yes
+Frist_2 Last name_258,Reading,Weekly,3,No
+Frist_2 Last name_258,Outdoor Sports,Daily,5,No
+Frist_2 Last name_258,Movies,Daily,1,No
+Frist_1 Last name_170,Social Media,Monthly,2,Yes
+Frist_1 Last name_170,Outdoor Sports,Weekly,2,No
+Frist_1 Last name_170,Reading,Monthly,4,No
+Frist_1 Last name_170,Music,Monthly,1,Yes
+Frist_1 Last name_170,Volunteering,Weekly,5,Yes
+Frist_1 Last name_170,Movies,Daily,3,Yes
+Frist_2 Last name_175,Movies,Monthly,4,Yes
+Frist_2 Last name_274,Outdoor Sports,Monthly,4,No
+Frist_2 Last name_274,Music,Weekly,3,Yes
+Frist_2 Last name_274,Movies,Weekly,3,No
+Frist_2 Last name_274,Volunteering,Daily,2,Yes
+Frist_2 Last name_274,Traveling,Monthly,3,Yes
+Frist_1 Last name_98,Traveling,Daily,2,Yes
+Frist_1 Last name_62,Movies,Rarely,2,Yes
+Frist_1 Last name_62,Music,Weekly,2,No
+Frist_1 Last name_62,Cooking,Monthly,4,No
+Frist_1 Last name_62,Outdoor Sports,Monthly,5,No
+Frist_1 Last name_62,Volunteering,Daily,4,No
+Frist_2 Last name_139,Traveling,Weekly,5,Yes
+Frist_2 Last name_139,Cooking,Daily,1,Yes
+Frist_2 Last name_31,Volunteering,Daily,5,No
+Frist_2 Last name_31,Reading,Rarely,5,Yes
+Frist_2 Last name_31,Outdoor Sports,Monthly,3,No
+Frist_2 Last name_31,Social Media,Daily,3,No
+Frist_2 Last name_31,Music,Daily,2,Yes
+Frist_2 Last name_42,Social Media,Daily,1,No
+Frist_2 Last name_42,Volunteering,Monthly,4,No
+Frist_2 Last name_42,Outdoor Sports,Rarely,2,No
+Frist_2 Last name_42,Cooking,Rarely,5,No
+Frist_2 Last name_42,Music,Rarely,1,Yes
+Frist_2 Last name_211,Traveling,Weekly,3,No
+Frist_2 Last name_211,Social Media,Monthly,4,No
+Frist_2 Last name_211,Reading,Daily,5,No
+Frist_2 Last name_211,Cooking,Rarely,3,No
+Frist_2 Last name_247,Outdoor Sports,Monthly,3,No
+Frist_2 Last name_247,Music,Rarely,1,Yes
+Frist_2 Last name_247,Traveling,Weekly,3,Yes
+Frist_2 Last name_247,Volunteering,Daily,5,No
+Frist_2 Last name_247,Social Media,Rarely,1,Yes
+Frist_2 Last name_247,Reading,Weekly,3,No
+Frist_2 Last name_150,Movies,Monthly,4,Yes
+Frist_2 Last name_150,Cooking,Monthly,5,Yes
+Frist_2 Last name_150,Traveling,Monthly,1,No
+Frist_2 Last name_150,Reading,Monthly,3,Yes
+Frist_2 Last name_150,Music,Weekly,4,No
+Frist_2 Last name_186,Music,Rarely,3,No
+Frist_2 Last name_186,Cooking,Rarely,1,No
+Frist_2 Last name_186,Social Media,Weekly,4,Yes
+Frist_2 Last name_267,Volunteering,Weekly,5,No
+Frist_2 Last name_267,Traveling,Rarely,5,No
+Frist_2 Last name_267,Reading,Daily,2,Yes
+Frist_2 Last name_267,Music,Daily,3,No
+Frist_2 Last name_267,Movies,Rarely,1,Yes
+Frist_2 Last name_267,Outdoor Sports,Rarely,1,No
+Frist_2 Last name_51,Social Media,Daily,2,Yes
+Frist_2 Last name_51,Traveling,Daily,1,No
+Frist_2 Last name_51,Outdoor Sports,Monthly,3,No
+Frist_2 Last name_51,Volunteering,Weekly,3,No
+Frist_2 Last name_51,Music,Daily,4,No
+Frist_2 Last name_51,Reading,Weekly,3,No
+Frist_2 Last name_51,Cooking,Monthly,5,Yes
+Frist_2 Last name_15,Outdoor Sports,Weekly,1,No
+Frist_2 Last name_87,Social Media,Rarely,2,No
+Frist_2 Last name_87,Movies,Monthly,5,Yes
+Frist_2 Last name_87,Reading,Daily,5,No
+Frist_2 Last name_87,Traveling,Monthly,1,Yes
+Frist_2 Last name_87,Cooking,Monthly,3,No
+Frist_2 Last name_87,Volunteering,Daily,3,No
+Frist_2 Last name_87,Outdoor Sports,Weekly,2,Yes
+Frist_2 Last name_114,Cooking,Weekly,3,No
+Frist_2 Last name_114,Traveling,Rarely,1,No
+Frist_2 Last name_114,Volunteering,Weekly,5,No
+Frist_2 Last name_114,Social Media,Weekly,5,Yes
+Frist_2 Last name_114,Outdoor Sports,Daily,4,Yes
+Frist_2 Last name_114,Movies,Monthly,5,Yes
+Frist_2 Last name_22,Cooking,Monthly,3,Yes
+Frist_2 Last name_22,Outdoor Sports,Monthly,1,Yes
+Frist_2 Last name_22,Social Media,Monthly,4,Yes
+Frist_2 Last name_22,Movies,Rarely,3,Yes
+Frist_2 Last name_22,Music,Daily,2,Yes
+Frist_2 Last name_22,Reading,Rarely,1,No
+Frist_2 Last name_22,Volunteering,Daily,2,No
+Frist_1 Last name_202,Reading,Rarely,2,Yes
+Frist_1 Last name_202,Social Media,Weekly,4,Yes
+Frist_1 Last name_202,Movies,Daily,1,No
+Frist_1 Last name_202,Cooking,Weekly,3,No
+Frist_1 Last name_218,Volunteering,Weekly,3,No
+Frist_1 Last name_218,Reading,Weekly,2,No
+Frist_1 Last name_218,Social Media,Monthly,4,Yes
+Frist_1 Last name_218,Movies,Rarely,2,No
+Frist_1 Last name_218,Outdoor Sports,Weekly,5,No
+Frist_1 Last name_182,Reading,Rarely,3,Yes
+Frist_1 Last name_166,Reading,Rarely,2,Yes
+Frist_1 Last name_166,Social Media,Weekly,3,No
+Frist_1 Last name_166,Traveling,Rarely,5,Yes
+Frist_1 Last name_110,Traveling,Monthly,2,No
+Frist_1 Last name_110,Reading,Rarely,4,Yes
+Frist_1 Last name_110,Volunteering,Weekly,5,Yes
+Frist_2 Last name_106,Volunteering,Monthly,4,No
+Frist_1 Last name_146,Reading,Monthly,1,Yes
+Frist_1 Last name_146,Volunteering,Daily,5,Yes
+Frist_1 Last name_146,Traveling,Weekly,1,No
+Frist_1 Last name_146,Movies,Weekly,2,Yes
+Frist_1 Last name_146,Outdoor Sports,Daily,4,No
+Frist_1 Last name_146,Social Media,Rarely,4,No
+Frist_1 Last name_290,Cooking,Daily,2,No
+Frist_1 Last name_290,Movies,Monthly,2,No
+Frist_1 Last name_290,Reading,Daily,3,Yes
+Frist_1 Last name_290,Social Media,Daily,1,Yes
+Frist_1 Last name_290,Music,Rarely,1,No
+Frist_1 Last name_290,Traveling,Weekly,5,No
+Frist_1 Last name_290,Volunteering,Weekly,1,Yes
+Frist_1 Last name_290,Outdoor Sports,Rarely,3,Yes
+Frist_2 Last name_126,Cooking,Monthly,3,No
+Frist_2 Last name_250,Traveling,Daily,5,No
+Frist_2 Last name_250,Volunteering,Daily,2,Yes
+Frist_2 Last name_250,Cooking,Rarely,4,Yes
+Frist_2 Last name_250,Movies,Monthly,4,No
+Frist_2 Last name_250,Outdoor Sports,Rarely,1,No
+Frist_2 Last name_250,Reading,Rarely,4,No
+Frist_1 Last name_22,Traveling,Daily,4,Yes
+Frist_1 Last name_22,Outdoor Sports,Monthly,5,Yes
+Frist_1 Last name_22,Volunteering,Daily,1,No
+Frist_1 Last name_22,Cooking,Daily,2,No
+Frist_1 Last name_130,Music,Rarely,3,Yes
+Frist_1 Last name_130,Reading,Rarely,4,Yes
+Frist_1 Last name_130,Movies,Daily,1,Yes
+Frist_1 Last name_130,Outdoor Sports,Daily,4,No
+Frist_1 Last name_130,Traveling,Daily,4,Yes
+Frist_1 Last name_130,Volunteering,Weekly,2,Yes
+Frist_1 Last name_130,Social Media,Daily,1,Yes
+Frist_2 Last name_198,Reading,Rarely,5,No
+Frist_2 Last name_198,Social Media,Daily,3,Yes
+Frist_1 Last name_85,Movies,Monthly,2,No
+Frist_1 Last name_85,Reading,Daily,3,No
+Frist_1 Last name_85,Outdoor Sports,Rarely,1,No
+Frist_1 Last name_85,Traveling,Monthly,1,No
+Frist_1 Last name_254,Reading,Rarely,4,No
+Frist_1 Last name_254,Music,Weekly,2,Yes
+Frist_1 Last name_254,Outdoor Sports,Monthly,5,No
+Frist_1 Last name_254,Traveling,Daily,1,No
+Frist_1 Last name_254,Social Media,Weekly,4,Yes
+Frist_1 Last name_254,Movies,Daily,4,Yes
+Frist_1 Last name_254,Volunteering,Daily,4,No
+Frist_2 Last name_162,Social Media,Monthly,5,Yes
+Frist_2 Last name_162,Traveling,Rarely,4,Yes
+Frist_2 Last name_162,Volunteering,Daily,5,Yes
+Frist_2 Last name_162,Reading,Monthly,2,No
+Frist_2 Last name_162,Music,Daily,5,Yes
+Frist_2 Last name_162,Movies,Rarely,1,No
+Frist_2 Last name_162,Cooking,Weekly,3,No
+Frist_2 Last name_162,Outdoor Sports,Weekly,2,No
+Frist_2 Last name_90,Reading,Daily,5,Yes
+Frist_2 Last name_90,Social Media,Daily,1,No
+Frist_2 Last name_90,Cooking,Monthly,3,No
+Frist_1 Last name_274,Outdoor Sports,Weekly,3,No
+Frist_2 Last name_142,Social Media,Rarely,2,No
+Frist_1 Last name_238,Social Media,Weekly,5,Yes
+Frist_1 Last name_238,Outdoor Sports,Weekly,4,No
+Frist_1 Last name_238,Traveling,Weekly,2,Yes
+Frist_1 Last name_238,Music,Daily,5,Yes
+Frist_1 Last name_238,Movies,Daily,5,No
+Frist_1 Last name_238,Volunteering,Weekly,2,No
+Frist_1 Last name_265,Outdoor Sports,Rarely,1,No
+Frist_1 Last name_265,Volunteering,Daily,1,No
+Frist_1 Last name_265,Traveling,Daily,2,No
+Frist_1 Last name_94,Traveling,Weekly,2,Yes
+Frist_1 Last name_94,Reading,Weekly,3,Yes
+Frist_1 Last name_94,Movies,Weekly,4,No
+Frist_1 Last name_94,Cooking,Daily,1,Yes
+Frist_1 Last name_94,Social Media,Rarely,2,No
+Frist_2 Last name_259,Volunteering,Weekly,1,Yes
+Frist_2 Last name_259,Social Media,Monthly,5,Yes
+Frist_2 Last name_259,Movies,Monthly,4,No
+Frist_2 Last name_259,Music,Daily,4,No
+Frist_2 Last name_259,Reading,Weekly,3,Yes
+Frist_2 Last name_259,Traveling,Daily,2,No
+Frist_2 Last name_259,Outdoor Sports,Rarely,5,Yes
+Frist_2 Last name_259,Cooking,Rarely,4,Yes
+Frist_2 Last name_223,Social Media,Monthly,1,No
+Frist_2 Last name_223,Volunteering,Daily,5,No
+Frist_2 Last name_223,Reading,Monthly,3,No
+Frist_2 Last name_223,Traveling,Daily,3,Yes
+Frist_2 Last name_223,Cooking,Weekly,2,No
+Frist_2 Last name_223,Music,Daily,5,No
+Frist_2 Last name_223,Movies,Monthly,3,No
+Frist_1 Last name_58,Reading,Monthly,1,Yes
+Frist_1 Last name_58,Traveling,Rarely,4,Yes
+Frist_1 Last name_58,Social Media,Rarely,5,No
+Frist_1 Last name_58,Cooking,Weekly,1,No
+Frist_1 Last name_74,Movies,Monthly,1,Yes
+Frist_1 Last name_74,Social Media,Rarely,4,No
+Frist_1 Last name_74,Music,Daily,5,Yes
+Frist_1 Last name_74,Volunteering,Daily,1,Yes
+Frist_1 Last name_74,Traveling,Monthly,4,No
+Frist_1 Last name_74,Cooking,Daily,2,Yes
+Frist_1 Last name_74,Outdoor Sports,Rarely,2,Yes
+Frist_1 Last name_38,Traveling,Weekly,3,No
+Frist_1 Last name_38,Social Media,Weekly,3,Yes
+Frist_1 Last name_38,Cooking,Weekly,5,No
+Frist_1 Last name_38,Reading,Weekly,5,No
+Frist_1 Last name_38,Outdoor Sports,Daily,5,Yes
+Frist_1 Last name_38,Movies,Monthly,1,Yes
+Frist_1 Last name_38,Volunteering,Rarely,4,No
+Frist_1 Last name_38,Music,Weekly,2,Yes
+Frist_2 Last name_63,Cooking,Monthly,1,No
+Frist_2 Last name_63,Outdoor Sports,Daily,4,Yes
+Frist_2 Last name_63,Volunteering,Rarely,3,No
+Frist_2 Last name_63,Reading,Rarely,5,Yes
+Frist_2 Last name_63,Social Media,Rarely,5,Yes
+Frist_2 Last name_63,Traveling,Rarely,5,Yes
+Frist_2 Last name_63,Music,Weekly,1,No
+Frist_2 Last name_7,Movies,Weekly,3,No
+Frist_2 Last name_7,Social Media,Rarely,1,Yes
+Frist_2 Last name_7,Reading,Rarely,3,No
+Frist_2 Last name_7,Outdoor Sports,Daily,4,Yes
+Frist_2 Last name_7,Volunteering,Weekly,5,No
+Frist_2 Last name_7,Traveling,Weekly,2,No
+Frist_2 Last name_99,Music,Weekly,3,Yes
+Frist_2 Last name_99,Volunteering,Monthly,5,No
+Frist_2 Last name_99,Movies,Monthly,3,Yes
+Frist_2 Last name_99,Social Media,Monthly,1,No
+Frist_2 Last name_99,Reading,Rarely,4,Yes
+Frist_1 Last name_173,Movies,Daily,2,No
+Frist_1 Last name_173,Social Media,Weekly,4,Yes
+Frist_1 Last name_173,Cooking,Weekly,1,Yes
+Frist_1 Last name_173,Reading,Monthly,3,Yes
+Frist_1 Last name_173,Music,Daily,3,Yes
+Frist_1 Last name_193,Reading,Daily,5,No
+Frist_1 Last name_193,Movies,Weekly,1,No
+Frist_1 Last name_193,Social Media,Monthly,3,No
+Frist_2 Last name_187,Outdoor Sports,Monthly,5,Yes
+Frist_2 Last name_187,Reading,Rarely,4,No
+Frist_2 Last name_214,Cooking,Monthly,1,No
+Frist_2 Last name_214,Reading,Daily,5,Yes
+Frist_2 Last name_214,Social Media,Weekly,2,Yes
+Frist_2 Last name_214,Volunteering,Daily,2,Yes
+Frist_2 Last name_214,Movies,Rarely,1,Yes
+Frist_2 Last name_214,Traveling,Monthly,4,Yes
+Frist_2 Last name_214,Outdoor Sports,Rarely,4,Yes
+Frist_2 Last name_214,Music,Monthly,3,Yes
+Frist_2 Last name_34,Reading,Rarely,1,No
+Frist_2 Last name_27,Music,Rarely,4,Yes
+Frist_2 Last name_27,Social Media,Daily,2,Yes
+Frist_2 Last name_27,Movies,Rarely,5,Yes
+Frist_2 Last name_27,Outdoor Sports,Rarely,5,Yes
+Frist_2 Last name_27,Cooking,Monthly,5,No
+Frist_2 Last name_27,Reading,Rarely,5,No
+Frist_1 Last name_65,Traveling,Weekly,5,Yes
+Frist_1 Last name_65,Outdoor Sports,Weekly,2,No
+Frist_1 Last name_65,Cooking,Rarely,4,No
+Frist_1 Last name_65,Volunteering,Daily,3,Yes
+Frist_1 Last name_29,Cooking,Weekly,3,No
+Frist_1 Last name_29,Outdoor Sports,Daily,3,Yes
+Frist_1 Last name_29,Social Media,Monthly,3,Yes
+Frist_1 Last name_29,Traveling,Weekly,5,Yes
+Frist_1 Last name_29,Reading,Daily,2,Yes
+Frist_1 Last name_157,Reading,Daily,5,No
+Frist_1 Last name_157,Movies,Rarely,3,No
+Frist_1 Last name_157,Social Media,Monthly,3,No
+Frist_1 Last name_157,Cooking,Daily,4,No
+Frist_1 Last name_157,Traveling,Monthly,3,No
+Frist_1 Last name_157,Music,Rarely,2,Yes
+Frist_1 Last name_157,Outdoor Sports,Daily,5,No
+Frist_2 Last name_79,Volunteering,Daily,5,No
+Frist_2 Last name_79,Reading,Weekly,1,No
+Frist_2 Last name_79,Social Media,Monthly,5,No
+Frist_2 Last name_79,Cooking,Monthly,2,Yes
+Frist_1 Last name_121,Social Media,Daily,1,No
+Frist_1 Last name_121,Movies,Monthly,3,No
+Frist_1 Last name_229,Traveling,Daily,5,Yes
+Frist_1 Last name_229,Social Media,Rarely,1,Yes
+Frist_1 Last name_229,Movies,Monthly,2,No
+Frist_1 Last name_229,Volunteering,Monthly,3,Yes
+Frist_1 Last name_229,Outdoor Sports,Monthly,3,Yes
+Frist_1 Last name_229,Reading,Daily,2,No
+Frist_1 Last name_229,Music,Weekly,4,Yes
+Frist_1 Last name_229,Cooking,Rarely,3,Yes
+Frist_1 Last name_137,Reading,Weekly,5,No
+Frist_1 Last name_137,Traveling,Daily,2,Yes
+Frist_1 Last name_137,Movies,Monthly,3,Yes
+Frist_1 Last name_137,Music,Daily,5,Yes
+Frist_1 Last name_137,Social Media,Daily,1,Yes
+Frist_1 Last name_137,Volunteering,Daily,1,Yes
+Frist_1 Last name_137,Outdoor Sports,Weekly,2,No
+Frist_1 Last name_137,Cooking,Weekly,5,No
+Frist_2 Last name_70,Cooking,Rarely,1,Yes
+Frist_2 Last name_70,Social Media,Daily,3,Yes
+Frist_2 Last name_70,Traveling,Monthly,4,No
+Frist_2 Last name_70,Music,Rarely,4,No
+Frist_1 Last name_101,Cooking,Rarely,1,No
+Frist_1 Last name_101,Movies,Weekly,4,Yes
+Frist_1 Last name_101,Reading,Weekly,4,No
+Frist_1 Last name_101,Traveling,Weekly,5,No
+Frist_1 Last name_101,Outdoor Sports,Daily,1,Yes
+Frist_1 Last name_101,Social Media,Weekly,5,Yes
+Frist_1 Last name_101,Volunteering,Rarely,3,Yes
+Frist_2 Last name_115,Volunteering,Rarely,1,Yes
+Frist_2 Last name_115,Cooking,Rarely,4,Yes
+Frist_2 Last name_115,Music,Rarely,4,No
+Frist_2 Last name_270,Outdoor Sports,Rarely,3,No
+Frist_2 Last name_270,Reading,Rarely,1,No
+Frist_2 Last name_270,Social Media,Rarely,5,No
+Frist_2 Last name_270,Cooking,Weekly,2,No
+Frist_2 Last name_270,Movies,Monthly,3,No
+Frist_2 Last name_270,Traveling,Weekly,1,No
+Frist_1 Last name_49,Cooking,Rarely,2,No
+Frist_1 Last name_49,Music,Rarely,3,Yes
+Frist_1 Last name_49,Movies,Monthly,2,Yes
+Frist_1 Last name_49,Reading,Weekly,1,Yes
+Frist_2 Last name_151,Volunteering,Monthly,4,No
+Frist_2 Last name_151,Outdoor Sports,Daily,1,No
+Frist_2 Last name_178,Reading,Monthly,1,Yes
+Frist_2 Last name_178,Outdoor Sports,Weekly,4,Yes
+Frist_2 Last name_178,Cooking,Monthly,1,Yes
+Frist_2 Last name_178,Music,Daily,3,No
+Frist_2 Last name_178,Movies,Rarely,2,No
+Frist_2 Last name_178,Volunteering,Daily,4,No
+Frist_2 Last name_178,Traveling,Rarely,5,No
+Frist_2 Last name_178,Social Media,Weekly,1,No
+Frist_1 Last name_209,Volunteering,Daily,4,No
+Frist_1 Last name_209,Music,Weekly,5,Yes
+Frist_1 Last name_209,Cooking,Monthly,3,Yes
+Frist_1 Last name_209,Outdoor Sports,Daily,3,No
+Frist_1 Last name_209,Reading,Daily,5,Yes
+Frist_1 Last name_209,Movies,Monthly,3,No
+Frist_1 Last name_209,Traveling,Monthly,3,Yes
+Frist_1 Last name_245,Traveling,Weekly,3,Yes
+Frist_1 Last name_245,Cooking,Daily,5,Yes
+Frist_2 Last name_234,Movies,Monthly,2,No
+Frist_2 Last name_234,Music,Weekly,5,No
+Frist_2 Last name_234,Traveling,Daily,1,No
+Frist_2 Last name_234,Cooking,Monthly,2,Yes
+Frist_2 Last name_243,Outdoor Sports,Rarely,2,No
+Frist_2 Last name_243,Reading,Rarely,3,No
+Frist_2 Last name_54,Reading,Rarely,5,No
+Frist_2 Last name_18,Traveling,Weekly,1,No
+Frist_2 Last name_18,Cooking,Monthly,2,No
+Frist_2 Last name_18,Music,Rarely,2,No
+Frist_2 Last name_18,Movies,Weekly,3,Yes
+Frist_2 Last name_18,Outdoor Sports,Rarely,4,No
+Frist_2 Last name_18,Volunteering,Rarely,2,Yes
+Frist_1 Last name_13,Social Media,Daily,4,No
+Frist_1 Last name_13,Outdoor Sports,Daily,4,Yes
+Frist_2 Last name_279,Reading,Weekly,1,Yes
+Frist_2 Last name_279,Volunteering,Weekly,4,No
+Frist_2 Last name_279,Movies,Daily,1,Yes
+Frist_2 Last name_279,Social Media,Daily,3,No
+Frist_2 Last name_279,Outdoor Sports,Daily,5,No
+Frist_2 Last name_279,Cooking,Monthly,4,Yes
+Frist_2 Last name_135,Music,Weekly,1,No
+Frist_2 Last name_135,Reading,Weekly,1,No
+Frist_2 Last name_135,Volunteering,Rarely,5,Yes
+Frist_2 Last name_135,Traveling,Daily,1,No
+Frist_2 Last name_135,Cooking,Rarely,5,Yes
+Frist_2 Last name_135,Social Media,Monthly,4,No
+Frist_2 Last name_135,Movies,Monthly,2,Yes
+Frist_2 Last name_171,Volunteering,Daily,4,Yes
+Frist_2 Last name_207,Cooking,Weekly,2,No
+Frist_2 Last name_207,Traveling,Weekly,2,Yes
+Frist_2 Last name_62,Outdoor Sports,Daily,3,No
+Frist_2 Last name_62,Traveling,Monthly,5,Yes
+Frist_2 Last name_62,Volunteering,Weekly,4,Yes
+Frist_1 Last name_237,Social Media,Daily,2,Yes
+Frist_1 Last name_237,Traveling,Rarely,2,No
+Frist_1 Last name_237,Outdoor Sports,Weekly,4,Yes
+Frist_2 Last name_98,Movies,Weekly,3,No
+Frist_2 Last name_98,Outdoor Sports,Daily,2,No
+Frist_2 Last name_98,Volunteering,Weekly,1,No
+Frist_2 Last name_98,Reading,Weekly,3,No
+Frist_2 Last name_98,Social Media,Monthly,3,Yes
+Frist_1 Last name_129,Movies,Monthly,5,No
+Frist_1 Last name_129,Traveling,Rarely,5,Yes
+Frist_1 Last name_129,Music,Monthly,3,Yes
+Frist_1 Last name_129,Volunteering,Daily,2,Yes
+Frist_1 Last name_201,Outdoor Sports,Daily,1,No
+Frist_2 Last name_278,Music,Monthly,5,No
+Frist_2 Last name_278,Social Media,Rarely,2,Yes
+Frist_2 Last name_278,Cooking,Daily,1,No
+Frist_2 Last name_278,Traveling,Daily,2,Yes
+Frist_2 Last name_278,Reading,Rarely,2,Yes
+Frist_1 Last name_210,Cooking,Weekly,3,No
+Frist_2 Last name_35,Traveling,Weekly,1,No
+Frist_1 Last name_246,Outdoor Sports,Monthly,3,No
+Frist_1 Last name_246,Volunteering,Weekly,2,Yes
+Frist_1 Last name_246,Social Media,Weekly,1,No
+Frist_1 Last name_246,Music,Monthly,1,Yes
+Frist_1 Last name_246,Traveling,Monthly,3,No
+Frist_1 Last name_246,Cooking,Weekly,2,Yes
+Frist_1 Last name_246,Movies,Daily,5,No
+Frist_2 Last name_26,Traveling,Rarely,5,Yes
+Frist_2 Last name_26,Reading,Daily,3,No
+Frist_2 Last name_26,Movies,Weekly,4,Yes
+Frist_2 Last name_26,Social Media,Rarely,1,Yes
+Frist_2 Last name_26,Volunteering,Weekly,2,No
+Frist_2 Last name_26,Cooking,Daily,4,Yes
+Frist_2 Last name_26,Music,Monthly,2,Yes
+Frist_1 Last name_273,Music,Rarely,3,Yes
+Frist_1 Last name_273,Volunteering,Rarely,2,Yes
+Frist_1 Last name_273,Outdoor Sports,Daily,3,Yes
+Frist_2 Last name_251,Social Media,Monthly,2,No
+Frist_2 Last name_215,Social Media,Daily,1,Yes
+Frist_2 Last name_215,Cooking,Monthly,3,No
+Frist_2 Last name_215,Traveling,Daily,5,Yes
+Frist_2 Last name_215,Volunteering,Rarely,1,Yes
+Frist_2 Last name_215,Reading,Rarely,4,No
+Frist_2 Last name_215,Music,Daily,1,Yes
+Frist_2 Last name_71,Volunteering,Monthly,2,No
+Frist_2 Last name_71,Music,Weekly,5,No
+Frist_2 Last name_71,Movies,Monthly,1,Yes
+Frist_2 Last name_71,Social Media,Rarely,2,No
+Frist_2 Last name_71,Outdoor Sports,Weekly,1,Yes
+Frist_2 Last name_71,Cooking,Weekly,5,Yes
+Frist_2 Last name_71,Reading,Monthly,1,No
+Frist_1 Last name_21,Reading,Rarely,3,No
+Frist_2 Last name_179,Volunteering,Daily,2,No
+Frist_2 Last name_179,Movies,Weekly,5,No
+Frist_2 Last name_179,Reading,Monthly,1,No
+Frist_2 Last name_179,Outdoor Sports,Rarely,3,Yes
+Frist_2 Last name_170,Cooking,Rarely,1,Yes
+Frist_2 Last name_170,Volunteering,Monthly,4,No
+Frist_1 Last name_165,Music,Weekly,2,Yes
+Frist_1 Last name_165,Outdoor Sports,Weekly,2,No
+Frist_1 Last name_165,Cooking,Monthly,5,No
+Frist_1 Last name_165,Traveling,Rarely,2,No
+Frist_1 Last name_165,Volunteering,Daily,5,No
+Frist_2 Last name_143,Music,Rarely,3,Yes
+Frist_2 Last name_143,Movies,Rarely,1,No
+Frist_2 Last name_134,Traveling,Weekly,4,No
+Frist_2 Last name_134,Cooking,Daily,4,Yes
+Frist_2 Last name_107,Outdoor Sports,Weekly,4,Yes
+Frist_2 Last name_107,Social Media,Daily,3,Yes
+Frist_2 Last name_107,Movies,Weekly,5,No
+Frist_2 Last name_107,Reading,Daily,3,No
+Frist_1 Last name_138,Music,Weekly,3,No
+Frist_1 Last name_138,Traveling,Rarely,1,Yes
+Frist_1 Last name_138,Social Media,Monthly,3,No
+Frist_1 Last name_66,Movies,Daily,4,No
+Frist_2 Last name_242,Movies,Rarely,2,Yes
+Frist_2 Last name_242,Reading,Daily,5,No
+Frist_2 Last name_242,Social Media,Daily,2,Yes
+Frist_2 Last name_242,Music,Weekly,5,No
+Frist_2 Last name_206,Cooking,Weekly,3,Yes
+Frist_2 Last name_206,Traveling,Weekly,3,Yes
+Frist_1 Last name_30,Outdoor Sports,Monthly,4,Yes
+Frist_1 Last name_30,Reading,Rarely,2,Yes
+Frist_1 Last name_30,Movies,Weekly,2,No
+Frist_1 Last name_30,Volunteering,Daily,3,No
+Frist_1 Last name_30,Cooking,Daily,5,No
+Frist_1 Last name_30,Traveling,Daily,5,No
+Frist_1 Last name_174,Music,Monthly,1,No
+Frist_1 Last name_174,Movies,Daily,1,No
+Frist_1 Last name_174,Cooking,Monthly,2,No
+Frist_1 Last name_174,Outdoor Sports,Daily,5,Yes
+Frist_1 Last name_174,Reading,Weekly,4,No
+Frist_1 Last name_174,Traveling,Rarely,2,Yes
+Frist_1 Last name_174,Volunteering,Daily,1,Yes
+Frist_1 Last name_174,Social Media,Monthly,1,No
+Frist_1 Last name_93,Social Media,Daily,3,Yes
+Frist_1 Last name_93,Music,Monthly,3,No
+Frist_1 Last name_93,Traveling,Weekly,3,No
+Frist_1 Last name_57,Music,Daily,5,Yes
+Frist_1 Last name_57,Movies,Monthly,2,No
+Frist_1 Last name_102,Traveling,Monthly,2,No
+Frist_1 Last name_149,Cooking,Monthly,5,No
+Frist_1 Last name_149,Music,Monthly,2,No
+Frist_1 Last name_149,Social Media,Monthly,2,No
+Frist_1 Last name_149,Movies,Weekly,4,No
+Frist_1 Last name_149,Traveling,Rarely,3,Yes
+Frist_2 Last name_19,Music,Weekly,5,Yes
+Frist_2 Last name_19,Cooking,Rarely,2,No
+Frist_1 Last name_194,Reading,Rarely,2,Yes
+Frist_1 Last name_194,Volunteering,Weekly,1,No
+Frist_1 Last name_194,Music,Weekly,5,Yes
+Frist_1 Last name_194,Outdoor Sports,Daily,2,Yes
+Frist_1 Last name_194,Movies,Rarely,3,Yes
+Frist_1 Last name_194,Traveling,Weekly,3,Yes
+Frist_1 Last name_194,Social Media,Weekly,1,Yes
+Frist_1 Last name_194,Cooking,Monthly,4,Yes
+Frist_1 Last name_41,Music,Weekly,3,No
+Frist_1 Last name_41,Social Media,Weekly,4,Yes
+Frist_1 Last name_41,Movies,Daily,2,Yes
+Frist_1 Last name_41,Traveling,Daily,5,Yes
+Frist_1 Last name_41,Outdoor Sports,Daily,3,No
+Frist_1 Last name_41,Cooking,Rarely,4,No
+Frist_1 Last name_41,Volunteering,Weekly,1,Yes
+Frist_1 Last name_113,Social Media,Monthly,3,Yes
+Frist_1 Last name_266,Cooking,Rarely,4,Yes
+Frist_1 Last name_266,Music,Daily,4,Yes
+Frist_1 Last name_266,Volunteering,Daily,2,No
+Frist_1 Last name_77,Social Media,Daily,3,No
+Frist_1 Last name_77,Traveling,Daily,5,Yes
+Frist_2 Last name_118,Traveling,Monthly,3,No
+Frist_2 Last name_118,Outdoor Sports,Daily,2,Yes
+Frist_1 Last name_185,Traveling,Weekly,1,Yes
+Frist_1 Last name_185,Outdoor Sports,Daily,4,Yes
+Frist_1 Last name_185,Music,Monthly,5,Yes
+Frist_1 Last name_185,Reading,Rarely,2,Yes
+Frist_1 Last name_185,Cooking,Monthly,3,No
+Frist_1 Last name_185,Movies,Weekly,3,Yes
+Frist_1 Last name_221,Music,Rarely,1,Yes
+Frist_1 Last name_221,Cooking,Daily,4,Yes
+Frist_1 Last name_221,Outdoor Sports,Daily,2,Yes
+Frist_1 Last name_221,Social Media,Monthly,2,No
+Frist_1 Last name_257,Movies,Weekly,4,No
+Frist_1 Last name_14,Reading,Weekly,3,Yes
+Frist_1 Last name_14,Music,Weekly,5,No
+Frist_1 Last name_14,Movies,Daily,2,No
+Frist_1 Last name_14,Cooking,Rarely,5,Yes
+Frist_2 Last name_190,Movies,Weekly,1,Yes
+Frist_2 Last name_190,Outdoor Sports,Monthly,1,No
+Frist_2 Last name_190,Traveling,Monthly,1,No
+Frist_2 Last name_226,Movies,Rarely,1,No
+Frist_2 Last name_226,Cooking,Weekly,1,No
+Frist_2 Last name_226,Outdoor Sports,Rarely,1,Yes
+Frist_2 Last name_226,Social Media,Monthly,1,Yes
+Frist_2 Last name_226,Volunteering,Monthly,3,No
+Frist_2 Last name_226,Reading,Rarely,1,No
+Frist_1 Last name_50,Traveling,Weekly,3,No
+Frist_1 Last name_50,Cooking,Rarely,2,No
+Frist_1 Last name_50,Music,Daily,5,Yes
+Frist_1 Last name_50,Outdoor Sports,Daily,5,Yes
+Frist_2 Last name_55,Volunteering,Weekly,3,Yes
+Frist_2 Last name_55,Cooking,Monthly,2,Yes
+Frist_1 Last name_230,Cooking,Rarely,4,No
+Frist_1 Last name_230,Reading,Monthly,2,Yes
+Frist_1 Last name_230,Outdoor Sports,Weekly,1,Yes
+Frist_1 Last name_230,Music,Weekly,1,No
+Frist_1 Last name_230,Volunteering,Weekly,2,No
+Frist_1 Last name_230,Movies,Weekly,1,No
+Frist_1 Last name_230,Social Media,Rarely,5,No
+Frist_1 Last name_230,Traveling,Weekly,1,No
+Frist_2 Last name_154,Movies,Monthly,5,No
+Frist_2 Last name_154,Outdoor Sports,Daily,5,No
+Frist_2 Last name_154,Cooking,Daily,3,Yes
+Frist_2 Last name_154,Traveling,Rarely,2,Yes
+Frist_2 Last name_154,Volunteering,Weekly,3,No
+Frist_1 Last name_86,Cooking,Weekly,2,Yes
+Frist_1 Last name_86,Volunteering,Monthly,2,No
+Frist_1 Last name_86,Outdoor Sports,Monthly,2,No
+Frist_1 Last name_86,Music,Rarely,4,Yes
+Frist_1 Last name_122,Movies,Weekly,3,Yes
+Frist_1 Last name_158,Cooking,Monthly,2,No
+Frist_1 Last name_158,Outdoor Sports,Rarely,5,No
+Frist_1 Last name_158,Social Media,Weekly,2,No
+Frist_1 Last name_158,Reading,Rarely,2,Yes
+Frist_2 Last name_46,Volunteering,Rarely,2,Yes
+Frist_2 Last name_46,Traveling,Daily,5,Yes
+Frist_2 Last name_46,Cooking,Daily,5,Yes
+Frist_2 Last name_46,Social Media,Weekly,2,No
+Frist_2 Last name_46,Reading,Weekly,3,Yes
+Frist_2 Last name_46,Music,Rarely,4,Yes
+Frist_2 Last name_46,Movies,Rarely,3,Yes
+Frist_2 Last name_46,Outdoor Sports,Monthly,4,Yes
+Frist_2 Last name_91,Outdoor Sports,Weekly,2,Yes
+Frist_2 Last name_91,Social Media,Daily,2,Yes
+Frist_2 Last name_91,Traveling,Daily,3,Yes
+Frist_2 Last name_91,Reading,Rarely,5,No
+Frist_2 Last name_91,Movies,Monthly,3,Yes
+Frist_2 Last name_91,Music,Rarely,2,Yes
+Frist_2 Last name_91,Cooking,Monthly,2,No
+Frist_2 Last name_91,Volunteering,Rarely,2,Yes
+Frist_2 Last name_163,Social Media,Daily,5,No
+Frist_2 Last name_163,Traveling,Daily,1,No
+Frist_2 Last name_163,Reading,Rarely,2,Yes
+Frist_2 Last name_163,Music,Monthly,4,Yes
+Frist_2 Last name_163,Movies,Monthly,5,No
+Frist_2 Last name_10,Traveling,Weekly,4,Yes
+Frist_2 Last name_10,Outdoor Sports,Rarely,4,Yes
+Frist_2 Last name_10,Movies,Weekly,1,Yes
+Frist_2 Last name_10,Volunteering,Monthly,4,No
+Frist_2 Last name_10,Music,Monthly,2,No
+Frist_2 Last name_82,Volunteering,Daily,4,Yes
+Frist_2 Last name_82,Social Media,Daily,2,No
+Frist_2 Last name_82,Reading,Rarely,2,Yes
+Frist_2 Last name_82,Cooking,Monthly,4,Yes
+Frist_2 Last name_82,Outdoor Sports,Weekly,4,No
+Frist_2 Last name_271,Outdoor Sports,Daily,4,No
+Frist_2 Last name_271,Music,Monthly,1,Yes
+Frist_2 Last name_271,Reading,Monthly,3,No
+Frist_2 Last name_271,Movies,Rarely,5,No
+Frist_2 Last name_262,Traveling,Weekly,2,Yes
+Frist_2 Last name_262,Music,Daily,2,No
+Frist_2 Last name_199,Outdoor Sports,Rarely,2,No
+Frist_2 Last name_235,Movies,Daily,5,Yes
+Frist_2 Last name_235,Traveling,Weekly,2,No
+Frist_2 Last name_235,Cooking,Daily,5,No
+Frist_2 Last name_235,Reading,Weekly,1,No
+Frist_2 Last name_235,Outdoor Sports,Monthly,1,No
+Frist_1 Last name_5,Reading,Rarely,2,No
+Frist_1 Last name_5,Movies,Monthly,3,Yes
+Frist_1 Last name_5,Social Media,Monthly,2,Yes
+Frist_1 Last name_5,Music,Daily,1,No
+Frist_1 Last name_5,Outdoor Sports,Daily,3,Yes
+Frist_1 Last name_5,Cooking,Rarely,3,No
+Frist_1 Last name_5,Volunteering,Daily,1,No
+Frist_2 Last name_127,Social Media,Monthly,5,Yes
+Frist_2 Last name_127,Movies,Weekly,4,No
+Frist_2 Last name_127,Volunteering,Rarely,4,No
+Frist_1 Last name_189,Movies,Daily,1,No
+Frist_1 Last name_189,Traveling,Daily,4,No
+Frist_1 Last name_189,Social Media,Daily,3,No
+Frist_1 Last name_189,Reading,Daily,3,No
+Frist_1 Last name_189,Volunteering,Rarely,1,Yes
+Frist_1 Last name_189,Cooking,Weekly,2,No
+Frist_1 Last name_189,Music,Weekly,1,Yes
+Frist_1 Last name_189,Outdoor Sports,Rarely,2,No
+Frist_1 Last name_225,Reading,Monthly,1,No
+Frist_1 Last name_117,Traveling,Daily,3,No
+Frist_1 Last name_117,Reading,Monthly,2,Yes
+Frist_1 Last name_117,Music,Daily,3,Yes
+Frist_1 Last name_117,Outdoor Sports,Weekly,4,No
+Frist_1 Last name_117,Social Media,Daily,5,Yes
+Frist_1 Last name_117,Movies,Weekly,1,Yes
+Frist_1 Last name_153,Social Media,Rarely,4,Yes
+Frist_1 Last name_153,Reading,Weekly,4,Yes
+Frist_2 Last name_239,Movies,Rarely,2,No
+Frist_2 Last name_266,Social Media,Daily,1,No
+Frist_2 Last name_266,Traveling,Rarely,3,Yes
+Frist_2 Last name_266,Volunteering,Monthly,2,Yes
+Frist_2 Last name_266,Cooking,Rarely,1,Yes
+Frist_2 Last name_266,Movies,Rarely,2,No
+Frist_2 Last name_266,Reading,Weekly,4,No
+Frist_2 Last name_203,Traveling,Daily,5,No
+Frist_2 Last name_203,Reading,Daily,3,No
+Frist_2 Last name_203,Outdoor Sports,Weekly,5,No
+Frist_2 Last name_203,Volunteering,Monthly,2,No
+Frist_2 Last name_167,Reading,Weekly,4,Yes
+Frist_2 Last name_167,Outdoor Sports,Rarely,4,Yes
+Frist_2 Last name_167,Social Media,Daily,3,No
+Frist_2 Last name_167,Cooking,Monthly,5,Yes
+Frist_2 Last name_167,Music,Daily,1,Yes
+Frist_2 Last name_167,Traveling,Monthly,5,Yes
+Frist_2 Last name_86,Music,Daily,2,Yes
+Frist_2 Last name_50,Reading,Weekly,5,No
+Frist_2 Last name_50,Traveling,Monthly,5,Yes
+Frist_2 Last name_50,Outdoor Sports,Daily,5,No
+Frist_2 Last name_50,Cooking,Weekly,5,Yes
+Frist_2 Last name_50,Volunteering,Daily,1,No
+Frist_1 Last name_18,Cooking,Rarely,5,No
+Frist_1 Last name_18,Reading,Daily,1,Yes
+Frist_1 Last name_18,Volunteering,Monthly,2,No
+Frist_1 Last name_18,Music,Rarely,3,No
+Frist_1 Last name_18,Traveling,Monthly,4,No
+Frist_2 Last name_14,Music,Weekly,2,No
+Frist_2 Last name_122,Outdoor Sports,Monthly,1,No
+Frist_2 Last name_122,Reading,Rarely,4,Yes
+Frist_2 Last name_122,Cooking,Rarely,2,Yes
+Frist_2 Last name_122,Music,Daily,2,Yes
+Frist_2 Last name_122,Social Media,Monthly,1,Yes
+Frist_2 Last name_122,Movies,Weekly,2,No
+Frist_2 Last name_122,Volunteering,Rarely,4,No
+Frist_2 Last name_122,Traveling,Daily,2,Yes
+Frist_2 Last name_275,Volunteering,Weekly,2,No
+Frist_2 Last name_275,Social Media,Monthly,1,No
+Frist_2 Last name_275,Outdoor Sports,Weekly,3,Yes
+Frist_2 Last name_275,Music,Daily,2,Yes
+Frist_2 Last name_275,Traveling,Rarely,2,Yes
+Frist_2 Last name_275,Movies,Monthly,5,Yes
+Frist_2 Last name_230,Social Media,Monthly,5,No
+Frist_1 Last name_90,Traveling,Weekly,5,Yes
+Frist_1 Last name_90,Cooking,Weekly,2,No
+Frist_1 Last name_90,Outdoor Sports,Daily,5,Yes
+Frist_1 Last name_90,Reading,Daily,5,Yes
+Frist_1 Last name_90,Social Media,Rarely,4,No
+Frist_1 Last name_90,Music,Daily,3,Yes
+Frist_1 Last name_90,Movies,Rarely,5,Yes
+Frist_1 Last name_90,Volunteering,Monthly,3,Yes
+Frist_1 Last name_81,Cooking,Daily,2,No
+Frist_1 Last name_81,Music,Rarely,3,No
+Frist_1 Last name_81,Reading,Monthly,5,No
+Frist_1 Last name_81,Traveling,Monthly,3,No
+Frist_1 Last name_45,Music,Rarely,1,No
+Frist_1 Last name_45,Cooking,Monthly,3,Yes
+Frist_1 Last name_9,Reading,Monthly,1,Yes
+Frist_1 Last name_9,Outdoor Sports,Daily,1,Yes
+Frist_1 Last name_9,Traveling,Daily,3,Yes
+Frist_1 Last name_9,Cooking,Weekly,1,Yes
+Frist_1 Last name_261,Cooking,Rarely,1,Yes
+Frist_1 Last name_261,Movies,Monthly,2,No
+Frist_1 Last name_261,Music,Daily,2,Yes
+Frist_1 Last name_261,Reading,Weekly,3,Yes
+Frist_1 Last name_54,Music,Rarely,4,Yes
+Frist_1 Last name_54,Traveling,Rarely,5,Yes
+Frist_1 Last name_54,Cooking,Rarely,3,No
+Frist_1 Last name_54,Volunteering,Weekly,4,Yes
+Frist_2 Last name_59,Cooking,Weekly,5,No
+Frist_2 Last name_59,Reading,Daily,5,No
+Frist_2 Last name_59,Outdoor Sports,Rarely,1,Yes
+Frist_2 Last name_59,Traveling,Rarely,4,Yes
+Frist_2 Last name_59,Volunteering,Weekly,3,Yes
+Frist_2 Last name_23,Volunteering,Rarely,3,Yes
+Frist_2 Last name_194,Music,Monthly,4,No
+Frist_2 Last name_194,Social Media,Rarely,5,No
+Frist_2 Last name_194,Cooking,Daily,3,No
+Frist_2 Last name_194,Traveling,Rarely,5,No
+Frist_2 Last name_194,Outdoor Sports,Rarely,4,No
+Frist_2 Last name_131,Outdoor Sports,Rarely,3,No
+Frist_2 Last name_95,Traveling,Daily,5,Yes
+Frist_2 Last name_95,Cooking,Daily,5,No
+Frist_2 Last name_95,Music,Weekly,5,No
+Frist_2 Last name_95,Movies,Weekly,5,Yes
+Frist_2 Last name_95,Reading,Weekly,4,Yes
+Frist_2 Last name_95,Volunteering,Rarely,1,No
+Frist_1 Last name_270,Movies,Daily,1,No
+Frist_1 Last name_270,Traveling,Monthly,5,No
+Frist_1 Last name_234,Social Media,Daily,4,Yes
+Frist_1 Last name_234,Outdoor Sports,Daily,4,No
+Frist_1 Last name_234,Traveling,Weekly,4,Yes
+Frist_1 Last name_234,Cooking,Daily,2,No
+Frist_1 Last name_234,Reading,Monthly,2,Yes
+Frist_1 Last name_234,Music,Rarely,2,No
+Frist_1 Last name_198,Traveling,Weekly,1,No
+Frist_1 Last name_162,Volunteering,Monthly,3,No
+Frist_1 Last name_162,Reading,Monthly,2,No
+Frist_1 Last name_126,Music,Weekly,1,Yes
+Frist_1 Last name_126,Traveling,Daily,1,Yes
+Frist_1 Last name_126,Cooking,Rarely,1,Yes
+Frist_1 Last name_126,Outdoor Sports,Rarely,4,No
+Frist_1 Last name_126,Movies,Rarely,2,Yes
+Frist_1 Last name_126,Reading,Rarely,3,No
+Frist_1 Last name_126,Volunteering,Monthly,3,No
+Frist_2 Last name_158,Movies,Weekly,2,No
+Frist_2 Last name_158,Reading,Daily,5,No
+Frist_2 Last name_158,Social Media,Weekly,1,No
+Frist_2 Last name_158,Outdoor Sports,Daily,1,No
+Frist_2 Last name_158,Music,Rarely,4,No
+Frist_2 Last name_158,Traveling,Rarely,2,No
+Frist_1 Last name_285,Cooking,Weekly,5,No
+Frist_1 Last name_285,Movies,Weekly,2,Yes
+Frist_1 Last name_285,Outdoor Sports,Rarely,2,No
+Frist_1 Last name_285,Music,Daily,5,No
+Frist_2 Last name_3,Volunteering,Rarely,1,No
+Frist_2 Last name_3,Cooking,Daily,5,Yes
+Frist_2 Last name_3,Movies,Weekly,5,Yes
+Frist_2 Last name_3,Traveling,Monthly,2,No
+Frist_2 Last name_3,Social Media,Weekly,5,Yes
+Frist_2 Last name_3,Outdoor Sports,Monthly,4,No
+Frist_2 Last name_3,Reading,Monthly,4,Yes
+Frist_2 Last name_282,Music,Rarely,1,Yes
+Frist_2 Last name_282,Outdoor Sports,Rarely,2,No
+Frist_2 Last name_282,Social Media,Monthly,5,Yes
+Frist_2 Last name_282,Volunteering,Weekly,2,No
+Frist_2 Last name_282,Cooking,Rarely,3,No
+Frist_2 Last name_282,Reading,Rarely,5,No
+Frist_2 Last name_282,Traveling,Rarely,2,Yes
+Frist_1 Last name_286,Social Media,Monthly,2,No
+Frist_1 Last name_286,Music,Rarely,5,No
+Frist_1 Last name_286,Reading,Daily,5,Yes
+Frist_1 Last name_286,Volunteering,Weekly,5,Yes
+Frist_1 Last name_286,Traveling,Rarely,3,Yes
+Frist_1 Last name_286,Cooking,Daily,5,No
+Frist_1 Last name_286,Movies,Weekly,2,Yes
+Frist_1 Last name_286,Outdoor Sports,Rarely,3,No
+Frist_1 Last name_42,Traveling,Weekly,1,No
+Frist_1 Last name_42,Social Media,Rarely,4,Yes
+Frist_1 Last name_42,Outdoor Sports,Weekly,3,No
+Frist_1 Last name_42,Cooking,Daily,3,No
+Frist_1 Last name_42,Reading,Rarely,4,Yes
+Frist_2 Last name_283,Social Media,Weekly,5,No
+Frist_1 Last name_1,Reading,Monthly,1,No
+Frist_1 Last name_1,Outdoor Sports,Daily,2,No
+Frist_1 Last name_1,Volunteering,Weekly,1,Yes
+Frist_1 Last name_1,Social Media,Monthly,1,No
+Frist_1 Last name_1,Movies,Weekly,1,No
+Frist_1 Last name_1,Music,Daily,4,Yes
+Frist_1 Last name_1,Cooking,Weekly,3,No
+Frist_1 Last name_1,Traveling,Rarely,4,Yes
+Frist_2 Last name_286,Cooking,Daily,2,Yes
+Frist_1 Last name_281,Traveling,Weekly,2,Yes
+Frist_1 Last name_281,Music,Weekly,1,No
+Frist_1 Last name_281,Outdoor Sports,Monthly,1,No
+Frist_1 Last name_281,Volunteering,Rarely,2,No
+Frist_1 Last name_281,Reading,Monthly,1,No
+Frist_1 Last name_281,Movies,Monthly,3,Yes
+Frist_1 Last name_281,Social Media,Weekly,5,Yes
+Frist_1 Last name_2,Outdoor Sports,Rarely,3,No
+Frist_1 Last name_2,Music,Daily,1,No
+Frist_1 Last name_2,Volunteering,Rarely,1,No
+Frist_1 Last name_2,Movies,Rarely,5,No
+Frist_1 Last name_2,Reading,Daily,5,Yes
+Frist_1 Last name_2,Cooking,Weekly,4,Yes
+Frist_1 Last name_2,Social Media,Daily,5,Yes
+Frist_1 Last name_2,Traveling,Daily,1,No
+Frist_2 Last name_43,Cooking,Rarely,5,Yes
+Frist_2 Last name_287,Cooking,Daily,1,Yes
+Frist_2 Last name_287,Traveling,Rarely,5,Yes
+Frist_2 Last name_287,Volunteering,Monthly,5,No
+Frist_1 Last name_282,Traveling,Monthly,1,Yes
+Frist_1 Last name_282,Movies,Daily,3,Yes
+Frist_1 Last name_282,Reading,Rarely,2,Yes
+Frist_1 Last name_282,Music,Weekly,1,Yes
+Frist_1 Last name_282,Outdoor Sports,Daily,4,Yes
+Frist_2 Last name_48,Outdoor Sports,Monthly,3,No
+Frist_2 Last name_48,Cooking,Daily,5,No
+Frist_2 Last name_48,Movies,Daily,4,No
+Frist_2 Last name_48,Volunteering,Weekly,3,No
+Frist_2 Last name_48,Reading,Weekly,4,No
+Frist_2 Last name_164,Traveling,Rarely,5,No
+Frist_2 Last name_164,Cooking,Daily,2,No
+Frist_2 Last name_164,Music,Weekly,3,No
+Frist_2 Last name_164,Outdoor Sports,Weekly,1,No
+Frist_2 Last name_164,Volunteering,Monthly,3,No
+Frist_2 Last name_128,Cooking,Rarely,1,Yes
+Frist_2 Last name_128,Music,Weekly,5,Yes
+Frist_2 Last name_128,Outdoor Sports,Monthly,4,Yes
+Frist_2 Last name_128,Movies,Monthly,3,No
+Frist_2 Last name_128,Traveling,Rarely,4,No
+Frist_2 Last name_128,Reading,Monthly,4,Yes
+Frist_2 Last name_264,Music,Weekly,5,Yes
+Frist_2 Last name_264,Reading,Monthly,3,No
+Frist_2 Last name_264,Outdoor Sports,Monthly,4,Yes
+Frist_2 Last name_264,Volunteering,Monthly,4,No
+Frist_2 Last name_264,Cooking,Weekly,1,No
+Frist_2 Last name_264,Movies,Monthly,3,No
+Frist_2 Last name_12,Music,Monthly,2,Yes
+Frist_2 Last name_12,Traveling,Rarely,3,No
+Frist_2 Last name_12,Outdoor Sports,Daily,1,Yes
+Frist_2 Last name_12,Reading,Rarely,1,No
+Frist_2 Last name_12,Social Media,Monthly,5,Yes
+Frist_2 Last name_12,Movies,Rarely,2,Yes
+Frist_2 Last name_12,Volunteering,Daily,4,Yes
+Frist_2 Last name_156,Outdoor Sports,Monthly,1,No
+Frist_2 Last name_156,Volunteering,Rarely,3,Yes
+Frist_2 Last name_156,Reading,Daily,2,Yes
+Frist_2 Last name_156,Music,Rarely,3,Yes
+Frist_2 Last name_228,Cooking,Weekly,5,Yes
+Frist_2 Last name_192,Reading,Daily,4,No
+Frist_2 Last name_192,Volunteering,Daily,2,No
+Frist_2 Last name_192,Cooking,Monthly,2,Yes
+Frist_2 Last name_192,Traveling,Daily,3,Yes
+Frist_2 Last name_192,Music,Rarely,3,Yes
+Frist_2 Last name_192,Social Media,Daily,2,Yes
+Frist_2 Last name_84,Outdoor Sports,Monthly,4,Yes
+Frist_2 Last name_120,Reading,Weekly,2,No
+Frist_2 Last name_120,Outdoor Sports,Monthly,4,No
+Frist_2 Last name_120,Cooking,Monthly,2,Yes
+Frist_2 Last name_120,Volunteering,Monthly,1,Yes
+Frist_2 Last name_120,Social Media,Rarely,1,No
+Frist_2 Last name_120,Music,Weekly,5,Yes
+Frist_2 Last name_120,Traveling,Monthly,1,No
+Frist_2 Last name_120,Movies,Rarely,3,No
+Frist_2 Last name_56,Cooking,Weekly,1,Yes
+Frist_2 Last name_56,Reading,Monthly,4,Yes
+Frist_2 Last name_56,Music,Monthly,3,No
+Frist_2 Last name_56,Movies,Daily,2,Yes
+Frist_2 Last name_92,Cooking,Daily,1,No
+Frist_2 Last name_92,Movies,Weekly,4,No
+Frist_2 Last name_92,Traveling,Weekly,4,Yes
+Frist_2 Last name_92,Reading,Monthly,5,No
+Frist_2 Last name_92,Social Media,Monthly,4,No
+Frist_2 Last name_92,Music,Monthly,3,Yes
+Frist_2 Last name_92,Outdoor Sports,Weekly,2,No
+Frist_2 Last name_92,Volunteering,Weekly,3,No
+Frist_2 Last name_236,Outdoor Sports,Daily,5,No
+Frist_2 Last name_236,Movies,Daily,2,No
+Frist_2 Last name_236,Reading,Daily,5,No
+Frist_2 Last name_236,Traveling,Weekly,2,Yes
+Frist_2 Last name_236,Social Media,Weekly,3,Yes
+Frist_2 Last name_236,Volunteering,Monthly,5,Yes
+Frist_2 Last name_236,Cooking,Rarely,1,No
+Frist_2 Last name_236,Music,Monthly,2,No
+Frist_2 Last name_200,Outdoor Sports,Monthly,4,No
+Frist_2 Last name_200,Cooking,Rarely,4,Yes
+Frist_2 Last name_272,Movies,Monthly,3,No
+Frist_2 Last name_272,Music,Rarely,1,Yes
+Frist_2 Last name_272,Outdoor Sports,Weekly,1,Yes
+Frist_2 Last name_272,Reading,Monthly,3,No
+Frist_2 Last name_272,Social Media,Weekly,5,Yes
+Frist_2 Last name_256,Volunteering,Weekly,3,Yes
+Frist_2 Last name_256,Traveling,Weekly,5,Yes
+Frist_2 Last name_256,Music,Daily,4,No
+Frist_2 Last name_256,Movies,Monthly,1,Yes
+Frist_2 Last name_256,Cooking,Daily,4,Yes
+Frist_2 Last name_256,Social Media,Monthly,3,Yes
+Frist_2 Last name_256,Reading,Monthly,3,No
+Frist_2 Last name_132,Volunteering,Weekly,2,Yes
+Frist_2 Last name_132,Cooking,Daily,1,Yes
+Frist_2 Last name_132,Movies,Rarely,5,Yes
+Frist_2 Last name_132,Traveling,Monthly,3,No
+Frist_2 Last name_132,Outdoor Sports,Weekly,5,No
+Frist_2 Last name_132,Music,Daily,4,No
+Frist_2 Last name_132,Social Media,Daily,3,No
+Frist_2 Last name_132,Reading,Daily,4,Yes
+Frist_2 Last name_96,Movies,Weekly,3,Yes
+Frist_2 Last name_96,Reading,Rarely,1,No
+Frist_2 Last name_60,Reading,Monthly,3,No
+Frist_2 Last name_60,Movies,Weekly,4,No
+Frist_2 Last name_60,Cooking,Weekly,2,Yes
+Frist_2 Last name_60,Social Media,Daily,1,Yes
+Frist_2 Last name_24,Music,Daily,3,Yes
+Frist_2 Last name_24,Reading,Daily,5,Yes
+Frist_2 Last name_40,Social Media,Rarely,4,Yes
+Frist_2 Last name_40,Cooking,Monthly,1,Yes
+Frist_2 Last name_40,Traveling,Monthly,4,No
+Frist_2 Last name_40,Outdoor Sports,Rarely,1,Yes
+Frist_2 Last name_40,Music,Rarely,1,Yes
+Frist_2 Last name_40,Reading,Daily,3,Yes
+Frist_2 Last name_148,Cooking,Monthly,5,Yes
+Frist_2 Last name_148,Traveling,Monthly,2,No
+Frist_2 Last name_148,Reading,Monthly,5,No
+Frist_2 Last name_148,Music,Weekly,3,No
+Frist_2 Last name_148,Volunteering,Monthly,2,Yes
+Frist_2 Last name_148,Outdoor Sports,Rarely,2,Yes
+Frist_2 Last name_148,Movies,Monthly,1,No
+Frist_2 Last name_148,Social Media,Monthly,3,Yes
+Frist_2 Last name_240,Music,Monthly,2,No
+Frist_2 Last name_240,Traveling,Daily,4,No
+Frist_2 Last name_240,Reading,Weekly,5,Yes
+Frist_2 Last name_240,Movies,Rarely,5,No
+Frist_2 Last name_240,Outdoor Sports,Monthly,1,Yes
+Frist_2 Last name_240,Social Media,Weekly,5,Yes
+Frist_2 Last name_240,Cooking,Daily,2,No
+Frist_2 Last name_76,Cooking,Monthly,2,No
+Frist_2 Last name_76,Traveling,Rarely,5,No
+Frist_2 Last name_76,Outdoor Sports,Rarely,4,No
+Frist_2 Last name_76,Volunteering,Daily,5,No
+Frist_2 Last name_76,Movies,Weekly,2,Yes
+Frist_2 Last name_76,Social Media,Daily,3,Yes
+Frist_2 Last name_76,Reading,Daily,1,No
+Frist_2 Last name_168,Traveling,Daily,4,Yes
+Frist_2 Last name_168,Music,Daily,1,No
+Frist_2 Last name_168,Cooking,Weekly,3,No
+Frist_2 Last name_168,Outdoor Sports,Daily,5,Yes
+Frist_2 Last name_168,Volunteering,Rarely,2,Yes
+Frist_2 Last name_168,Reading,Monthly,1,Yes
+Frist_2 Last name_168,Social Media,Daily,1,No
+Frist_2 Last name_184,Movies,Rarely,4,No
+Frist_2 Last name_220,Outdoor Sports,Monthly,5,No
+Frist_2 Last name_220,Traveling,Weekly,5,No
+Frist_2 Last name_220,Cooking,Rarely,3,Yes
+Frist_2 Last name_220,Social Media,Weekly,5,Yes
+Frist_2 Last name_220,Volunteering,Rarely,2,No
+Frist_2 Last name_276,Social Media,Rarely,5,No
+Frist_2 Last name_276,Reading,Weekly,2,No
+Frist_2 Last name_276,Cooking,Daily,3,No
+Frist_2 Last name_276,Volunteering,Weekly,3,Yes
+Frist_2 Last name_276,Music,Daily,4,Yes
+Frist_2 Last name_276,Movies,Weekly,3,No
+Frist_2 Last name_204,Volunteering,Daily,3,Yes
+Frist_2 Last name_204,Reading,Daily,5,Yes
+Frist_2 Last name_204,Cooking,Daily,2,Yes
+Frist_2 Last name_204,Outdoor Sports,Monthly,5,Yes
+Frist_2 Last name_204,Traveling,Daily,4,No
+Frist_2 Last name_204,Social Media,Daily,5,Yes
+Frist_2 Last name_204,Music,Weekly,4,Yes
+Frist_2 Last name_112,Reading,Daily,1,No
+Frist_2 Last name_112,Volunteering,Weekly,5,No
+Frist_2 Last name_292,Social Media,Monthly,1,No
+Frist_2 Last name_292,Traveling,Daily,5,Yes
+Frist_2 Last name_292,Movies,Daily,3,Yes
+Frist_2 Last name_292,Cooking,Daily,4,No
+Frist_2 Last name_292,Music,Weekly,5,Yes
+Frist_2 Last name_88,Traveling,Monthly,5,Yes
+Frist_2 Last name_52,Volunteering,Monthly,3,Yes
+Frist_2 Last name_52,Traveling,Weekly,4,No
+Frist_2 Last name_52,Reading,Daily,4,No
+Frist_2 Last name_232,Cooking,Monthly,5,Yes
+Frist_2 Last name_268,Movies,Rarely,5,Yes
+Frist_2 Last name_268,Outdoor Sports,Monthly,3,No
+Frist_2 Last name_196,Movies,Weekly,3,Yes
+Frist_2 Last name_196,Outdoor Sports,Weekly,1,No
+Frist_2 Last name_196,Reading,Monthly,1,No
+Frist_2 Last name_160,Cooking,Weekly,1,Yes
+Frist_2 Last name_160,Traveling,Rarely,1,No
+Frist_2 Last name_160,Reading,Weekly,4,No
+Frist_2 Last name_160,Social Media,Daily,2,No
+Frist_2 Last name_160,Music,Weekly,4,Yes
+Frist_2 Last name_160,Outdoor Sports,Monthly,3,No
+Frist_2 Last name_160,Movies,Daily,3,Yes
+Frist_2 Last name_160,Volunteering,Weekly,2,No
+Frist_2 Last name_252,Music,Monthly,3,No
+Frist_2 Last name_252,Cooking,Daily,1,No
+Frist_2 Last name_252,Reading,Monthly,4,Yes
+Frist_2 Last name_252,Social Media,Monthly,1,No
+Frist_2 Last name_252,Volunteering,Monthly,5,Yes
+Frist_2 Last name_252,Movies,Daily,3,Yes
+Frist_2 Last name_124,Volunteering,Weekly,2,Yes
+Frist_2 Last name_124,Traveling,Weekly,3,No
+Frist_2 Last name_124,Reading,Monthly,2,Yes
+Frist_2 Last name_124,Cooking,Monthly,3,No
+Frist_2 Last name_124,Outdoor Sports,Weekly,3,Yes
+Frist_2 Last name_124,Social Media,Monthly,2,No
+Frist_2 Last name_124,Music,Weekly,5,Yes
+Frist_2 Last name_108,Reading,Daily,3,No
+Frist_2 Last name_108,Movies,Rarely,5,No
+Frist_2 Last name_108,Social Media,Weekly,5,No
+Frist_2 Last name_108,Volunteering,Monthly,1,No
+Frist_2 Last name_144,Reading,Daily,2,No
+Frist_2 Last name_144,Social Media,Weekly,2,Yes
+Frist_2 Last name_144,Volunteering,Rarely,5,Yes
+Frist_2 Last name_144,Outdoor Sports,Rarely,1,No
+Frist_2 Last name_144,Music,Monthly,5,No
+Frist_2 Last name_144,Traveling,Monthly,1,No
+Frist_2 Last name_144,Cooking,Daily,2,No
+Frist_2 Last name_180,Outdoor Sports,Monthly,3,No
+Frist_2 Last name_216,Movies,Monthly,4,Yes
+Frist_2 Last name_36,Cooking,Rarely,4,Yes
+Frist_2 Last name_36,Movies,Weekly,2,No
+Frist_2 Last name_36,Social Media,Monthly,3,No
+Frist_2 Last name_36,Volunteering,Rarely,1,Yes
+Frist_2 Last name_36,Music,Rarely,5,No
+Frist_2 Last name_36,Reading,Rarely,5,No
+Frist_2 Last name_72,Outdoor Sports,Daily,2,Yes
+Frist_2 Last name_72,Cooking,Monthly,4,Yes
+Frist_2 Last name_72,Music,Daily,4,Yes
+Frist_2 Last name_224,Reading,Monthly,2,No
+Frist_2 Last name_80,Music,Rarely,2,Yes
+Frist_2 Last name_80,Cooking,Weekly,2,Yes
+Frist_2 Last name_80,Social Media,Daily,2,Yes
+Frist_2 Last name_80,Reading,Monthly,2,Yes
+Frist_2 Last name_152,Cooking,Weekly,5,No
+Frist_2 Last name_152,Outdoor Sports,Rarely,2,No
+Frist_2 Last name_152,Music,Daily,5,No
+Frist_2 Last name_188,Social Media,Rarely,5,Yes
+Frist_2 Last name_188,Volunteering,Monthly,2,Yes
+Frist_2 Last name_116,Volunteering,Rarely,5,Yes
+Frist_2 Last name_116,Movies,Rarely,2,Yes
+Frist_2 Last name_260,Movies,Weekly,2,Yes
+Frist_2 Last name_260,Social Media,Rarely,1,Yes
+Frist_2 Last name_8,Music,Rarely,1,No
+Frist_2 Last name_8,Cooking,Monthly,5,Yes
+Frist_2 Last name_8,Reading,Weekly,3,No
+Frist_2 Last name_8,Volunteering,Daily,3,Yes
+Frist_2 Last name_8,Traveling,Daily,5,No
+Frist_2 Last name_8,Movies,Monthly,5,No
+Frist_2 Last name_8,Social Media,Rarely,2,No
+Frist_2 Last name_44,Movies,Rarely,4,Yes
+Frist_2 Last name_44,Social Media,Rarely,5,No
+Frist_2 Last name_44,Cooking,Rarely,2,No
+Frist_2 Last name_280,Outdoor Sports,Monthly,4,No
+Frist_2 Last name_280,Music,Rarely,3,Yes
+Frist_2 Last name_280,Social Media,Weekly,3,No
+Frist_2 Last name_280,Cooking,Rarely,5,No
+Frist_2 Last name_280,Movies,Weekly,1,Yes
+Frist_2 Last name_280,Volunteering,Weekly,4,No
+Frist_2 Last name_280,Reading,Weekly,4,No
+Frist_2 Last name_280,Traveling,Rarely,2,Yes
+Frist_2 Last name_172,Outdoor Sports,Monthly,3,Yes
+Frist_2 Last name_172,Cooking,Weekly,2,No
+Frist_2 Last name_208,Volunteering,Rarely,3,No
+Frist_2 Last name_208,Reading,Monthly,5,No
+Frist_2 Last name_208,Music,Weekly,2,Yes
+Frist_2 Last name_208,Social Media,Weekly,3,Yes
+Frist_2 Last name_208,Movies,Monthly,1,No
+Frist_2 Last name_208,Outdoor Sports,Weekly,2,Yes
+Frist_2 Last name_208,Traveling,Monthly,5,Yes
+Frist_2 Last name_64,Reading,Monthly,1,No
+Frist_2 Last name_64,Movies,Daily,1,No
+Frist_2 Last name_64,Music,Rarely,5,Yes
+Frist_2 Last name_64,Cooking,Monthly,4,No
+Frist_2 Last name_64,Volunteering,Daily,2,No
+Frist_2 Last name_136,Social Media,Rarely,1,No
+Frist_2 Last name_136,Movies,Weekly,1,No
+Frist_2 Last name_100,Reading,Daily,3,Yes
+Frist_2 Last name_100,Movies,Daily,3,Yes
+Frist_2 Last name_100,Traveling,Daily,3,No
+Frist_2 Last name_100,Social Media,Rarely,4,Yes
+Frist_2 Last name_100,Outdoor Sports,Weekly,5,No
+Frist_2 Last name_100,Music,Weekly,2,No
+Frist_2 Last name_100,Volunteering,Weekly,3,No
+Frist_2 Last name_100,Cooking,Daily,3,Yes
+Frist_2 Last name_244,Cooking,Daily,4,No
+Frist_2 Last name_244,Reading,Monthly,4,Yes
+Frist_2 Last name_244,Social Media,Rarely,5,No
+Frist_2 Last name_244,Volunteering,Monthly,2,No
+Frist_2 Last name_28,Traveling,Weekly,4,Yes
+Frist_2 Last name_28,Social Media,Monthly,5,No
+Frist_2 Last name_28,Cooking,Daily,4,Yes
+Frist_2 Last name_28,Reading,Rarely,4,No
+Frist_2 Last name_28,Outdoor Sports,Weekly,5,No
+Frist_2 Last name_28,Music,Rarely,1,Yes
+Frist_2 Last name_28,Movies,Rarely,5,No
+Frist_2 Last name_176,Outdoor Sports,Daily,2,Yes
+Frist_2 Last name_176,Reading,Monthly,2,Yes
+Frist_2 Last name_176,Traveling,Weekly,1,Yes
+Frist_2 Last name_176,Cooking,Monthly,1,Yes
+Frist_2 Last name_176,Movies,Weekly,3,No
+Frist_2 Last name_176,Social Media,Weekly,2,No
+Frist_2 Last name_176,Music,Daily,2,Yes
+Frist_2 Last name_140,Movies,Weekly,5,No
+Frist_2 Last name_140,Music,Weekly,5,No
+Frist_2 Last name_104,Social Media,Daily,5,Yes
+Frist_2 Last name_104,Movies,Daily,4,No
+Frist_2 Last name_104,Outdoor Sports,Rarely,2,Yes
+Frist_2 Last name_68,Outdoor Sports,Weekly,4,No
+Frist_2 Last name_68,Music,Weekly,2,Yes
+Frist_2 Last name_68,Traveling,Rarely,4,Yes
+Frist_2 Last name_68,Reading,Rarely,1,Yes
+Frist_2 Last name_248,Volunteering,Rarely,2,No
+Frist_2 Last name_248,Traveling,Daily,5,Yes
+Frist_2 Last name_248,Music,Rarely,1,Yes
+Frist_2 Last name_248,Movies,Daily,5,No
+Frist_2 Last name_248,Reading,Weekly,2,Yes
+Frist_2 Last name_248,Cooking,Weekly,5,No
+Frist_2 Last name_212,Outdoor Sports,Daily,1,Yes
+Frist_2 Last name_212,Movies,Monthly,3,No
+Frist_2 Last name_212,Volunteering,Rarely,5,Yes
+Frist_2 Last name_212,Cooking,Monthly,4,Yes
+Frist_2 Last name_212,Reading,Daily,2,No
+Frist_2 Last name_32,Traveling,Daily,1,Yes
+Frist_2 Last name_32,Cooking,Weekly,2,No
+Frist_2 Last name_32,Social Media,Daily,4,No
+Frist_2 Last name_32,Volunteering,Daily,2,No
+Frist_2 Last name_20,Outdoor Sports,Daily,2,Yes
+Frist_2 Last name_20,Cooking,Rarely,1,No
+Frist_2 Last name_20,Reading,Rarely,2,Yes
+Frist_2 Last name_20,Social Media,Daily,1,Yes
+Frist_2 Last name_20,Music,Weekly,3,No
+Frist_2 Last name_20,Movies,Daily,5,No
+Frist_2 Last name_4,Music,Daily,2,No
+Frist_2 Last name_4,Social Media,Rarely,1,No
+Frist_2 Last name_288,Volunteering,Weekly,1,No
+Frist_2 Last name_288,Social Media,Daily,3,No
+Frist_2 Last name_288,Cooking,Rarely,5,Yes
+Frist_2 Last name_288,Music,Monthly,3,No
+Frist_2 Last name_288,Reading,Monthly,4,No
+Frist_2 Last name_288,Outdoor Sports,Rarely,3,No
+Frist_2 Last name_288,Movies,Rarely,1,No
+Frist_2 Last name_16,Social Media,Monthly,5,Yes
+Frist_2 Last name_16,Movies,Rarely,2,No
+Frist_2 Last name_16,Volunteering,Daily,4,Yes
+Frist_2 Last name_16,Reading,Daily,3,No
+Frist_2 Last name_284,Reading,Weekly,4,Yes
+Frist_2 Last name_284,Social Media,Monthly,1,Yes
+Frist_2 Last name_284,Volunteering,Weekly,4,Yes
+Frist_2 Last name_284,Movies,Weekly,5,No
+Frist_2 Last name_284,Music,Rarely,3,Yes
+Frist_2 Last name_284,Outdoor Sports,Weekly,4,No
+Frist_2 Last name_284,Traveling,Weekly,1,No
+Frist_2 Last name_2,Reading,Monthly,3,No
+Frist_2 Last name_2,Outdoor Sports,Rarely,3,No
+Frist_2 Last name_2,Traveling,Weekly,4,No
+Frist_2 Last name_2,Movies,Monthly,3,Yes
+Frist_2 Last name_2,Cooking,Daily,2,No
+Frist_1 Last name_124,Cooking,Weekly,2,No
+Frist_1 Last name_124,Movies,Weekly,5,Yes
+Frist_1 Last name_204,Traveling,Rarely,2,Yes
+Frist_1 Last name_204,Movies,Rarely,1,No
+Frist_1 Last name_204,Volunteering,Daily,4,No
+Frist_1 Last name_204,Music,Weekly,3,No
+Frist_1 Last name_204,Reading,Rarely,5,No
+Frist_1 Last name_204,Social Media,Daily,5,No
+Frist_1 Last name_96,Cooking,Daily,4,Yes
+Frist_1 Last name_96,Traveling,Rarely,2,No
+Frist_1 Last name_96,Reading,Daily,3,No
+Frist_1 Last name_96,Music,Weekly,3,Yes
+Frist_1 Last name_96,Social Media,Daily,5,Yes
+Frist_1 Last name_96,Volunteering,Weekly,5,No
+Frist_1 Last name_168,Cooking,Monthly,2,Yes
+Frist_1 Last name_168,Volunteering,Daily,3,No
+Frist_1 Last name_168,Movies,Monthly,5,Yes
+Frist_1 Last name_168,Social Media,Monthly,4,Yes
+Frist_1 Last name_168,Reading,Rarely,3,Yes
+Frist_1 Last name_168,Outdoor Sports,Rarely,1,Yes
+Frist_1 Last name_132,Traveling,Daily,2,Yes
+Frist_1 Last name_132,Outdoor Sports,Daily,4,Yes
+Frist_1 Last name_132,Music,Weekly,1,Yes
+Frist_1 Last name_276,Cooking,Daily,4,No
+Frist_1 Last name_276,Movies,Monthly,5,Yes
+Frist_1 Last name_276,Reading,Weekly,1,No
+Frist_1 Last name_276,Traveling,Rarely,3,No
+Frist_1 Last name_268,Movies,Monthly,2,No
+Frist_1 Last name_268,Cooking,Daily,3,No
+Frist_1 Last name_268,Outdoor Sports,Weekly,3,No
+Frist_1 Last name_196,Volunteering,Weekly,5,Yes
+Frist_1 Last name_196,Outdoor Sports,Daily,5,Yes
+Frist_1 Last name_60,Social Media,Weekly,2,Yes
+Frist_1 Last name_60,Traveling,Rarely,5,Yes
+Frist_1 Last name_16,Outdoor Sports,Rarely,4,No
+Frist_1 Last name_16,Cooking,Weekly,4,Yes
+Frist_1 Last name_16,Social Media,Rarely,5,Yes
+Frist_1 Last name_16,Traveling,Rarely,1,No
+Frist_1 Last name_16,Reading,Monthly,5,No
+Frist_1 Last name_16,Movies,Monthly,1,No
+Frist_1 Last name_16,Volunteering,Daily,4,Yes
+Frist_1 Last name_52,Cooking,Daily,5,Yes
+Frist_1 Last name_52,Reading,Weekly,1,No
+Frist_1 Last name_24,Music,Daily,5,Yes
+Frist_1 Last name_24,Traveling,Daily,1,Yes
+Frist_1 Last name_232,Reading,Rarely,4,No
+Frist_1 Last name_232,Volunteering,Monthly,3,Yes
+Frist_1 Last name_232,Social Media,Daily,5,Yes
+Frist_1 Last name_232,Outdoor Sports,Rarely,4,Yes
+Frist_1 Last name_232,Traveling,Weekly,3,No
+Frist_1 Last name_240,Traveling,Rarely,3,Yes
+Frist_1 Last name_240,Outdoor Sports,Daily,3,Yes
+Frist_1 Last name_240,Movies,Rarely,1,No
+Frist_1 Last name_240,Volunteering,Monthly,1,Yes
+Frist_1 Last name_240,Reading,Rarely,5,Yes
+Frist_1 Last name_240,Social Media,Monthly,3,Yes
+Frist_1 Last name_160,Cooking,Weekly,1,No
+Frist_1 Last name_160,Music,Monthly,3,Yes
+Frist_1 Last name_160,Traveling,Weekly,3,Yes
+Frist_1 Last name_88,Traveling,Daily,2,No
+Frist_1 Last name_100,Reading,Monthly,2,No
+Frist_1 Last name_100,Music,Weekly,2,Yes
+Frist_1 Last name_100,Social Media,Monthly,5,Yes
+Frist_1 Last name_100,Movies,Monthly,5,Yes
+Frist_1 Last name_100,Volunteering,Rarely,2,Yes
+Frist_1 Last name_172,Cooking,Daily,3,No
+Frist_1 Last name_172,Traveling,Weekly,4,No
+Frist_1 Last name_172,Movies,Weekly,5,Yes
+Frist_1 Last name_172,Volunteering,Monthly,1,No
+Frist_1 Last name_172,Social Media,Daily,5,No
+Frist_1 Last name_208,Volunteering,Monthly,2,No
+Frist_1 Last name_208,Traveling,Monthly,3,No
+Frist_1 Last name_208,Music,Weekly,4,Yes
+Frist_1 Last name_208,Reading,Weekly,5,Yes
+Frist_1 Last name_28,Volunteering,Rarely,5,No
+Frist_1 Last name_28,Music,Daily,5,Yes
+Frist_1 Last name_28,Outdoor Sports,Rarely,1,Yes
+Frist_1 Last name_28,Movies,Monthly,4,Yes
+Frist_1 Last name_64,Cooking,Monthly,4,No
+Frist_1 Last name_136,Music,Monthly,2,No
+Frist_1 Last name_136,Reading,Daily,5,No
+Frist_1 Last name_260,Music,Daily,4,Yes
+Frist_1 Last name_260,Volunteering,Weekly,3,Yes
+Frist_1 Last name_260,Social Media,Daily,2,Yes
+Frist_1 Last name_260,Movies,Monthly,2,Yes
+Frist_1 Last name_260,Outdoor Sports,Weekly,2,Yes
+Frist_1 Last name_260,Traveling,Rarely,5,No
+Frist_1 Last name_8,Outdoor Sports,Weekly,5,No
+Frist_1 Last name_8,Movies,Weekly,4,Yes
+Frist_1 Last name_8,Reading,Rarely,4,No
+Frist_1 Last name_8,Cooking,Monthly,1,No
+Frist_1 Last name_44,Movies,Rarely,2,No
+Frist_1 Last name_44,Cooking,Rarely,5,No
+Frist_1 Last name_44,Volunteering,Rarely,2,No
+Frist_1 Last name_44,Traveling,Weekly,2,Yes
+Frist_1 Last name_44,Outdoor Sports,Weekly,4,No
+Frist_1 Last name_44,Music,Weekly,2,No
+Frist_1 Last name_44,Reading,Weekly,5,No
+Frist_1 Last name_44,Social Media,Monthly,4,Yes
+Frist_1 Last name_80,Cooking,Weekly,5,Yes
+Frist_1 Last name_80,Reading,Rarely,1,No
+Frist_1 Last name_80,Social Media,Weekly,2,Yes
+Frist_1 Last name_80,Movies,Weekly,1,Yes
+Frist_1 Last name_116,Movies,Daily,4,Yes
+Frist_1 Last name_116,Social Media,Daily,2,No
+Frist_1 Last name_152,Social Media,Weekly,4,Yes
+Frist_1 Last name_152,Cooking,Rarely,1,Yes
+Frist_1 Last name_152,Outdoor Sports,Daily,5,Yes
+Frist_1 Last name_152,Movies,Daily,3,Yes
+Frist_1 Last name_152,Volunteering,Weekly,2,Yes
+Frist_1 Last name_152,Reading,Weekly,4,Yes
+Frist_1 Last name_188,Social Media,Daily,3,Yes
+Frist_1 Last name_188,Reading,Weekly,5,Yes
+Frist_1 Last name_188,Outdoor Sports,Weekly,2,Yes
+Frist_1 Last name_188,Music,Monthly,4,No
+Frist_1 Last name_188,Movies,Weekly,3,No
+Frist_1 Last name_188,Traveling,Daily,4,No
+Frist_1 Last name_188,Cooking,Monthly,2,No
+Frist_1 Last name_188,Volunteering,Rarely,5,No
+Frist_1 Last name_224,Traveling,Monthly,2,Yes
+Frist_1 Last name_244,Cooking,Daily,4,Yes
+Frist_1 Last name_244,Outdoor Sports,Daily,3,Yes
+Frist_1 Last name_244,Volunteering,Monthly,5,No
+Frist_1 Last name_244,Movies,Rarely,4,Yes
+Frist_1 Last name_244,Social Media,Monthly,4,Yes
+Frist_1 Last name_244,Music,Monthly,4,Yes
+Frist_1 Last name_244,Reading,Monthly,5,Yes
+Frist_1 Last name_244,Traveling,Rarely,1,No
+Frist_1 Last name_280,Music,Monthly,5,No
+Frist_1 Last name_280,Reading,Weekly,4,No
+Frist_1 Last name_280,Cooking,Weekly,3,No
+Frist_1 Last name_280,Outdoor Sports,Daily,5,Yes
+Frist_1 Last name_280,Traveling,Rarely,5,No
+Frist_1 Last name_280,Volunteering,Weekly,5,Yes
+Frist_1 Last name_280,Social Media,Monthly,4,Yes
+Frist_1 Last name_236,Traveling,Weekly,5,Yes
+Frist_1 Last name_20,Outdoor Sports,Monthly,1,No
+Frist_1 Last name_20,Cooking,Daily,4,No
+Frist_1 Last name_20,Social Media,Weekly,3,Yes
+Frist_1 Last name_20,Reading,Daily,1,Yes
+Frist_1 Last name_20,Volunteering,Weekly,3,Yes
+Frist_1 Last name_20,Music,Weekly,4,No
+Frist_1 Last name_20,Movies,Rarely,4,Yes
+Frist_1 Last name_272,Volunteering,Daily,1,Yes
+Frist_1 Last name_272,Traveling,Rarely,1,No
+Frist_1 Last name_272,Cooking,Rarely,1,Yes
+Frist_1 Last name_128,Reading,Monthly,4,Yes
+Frist_1 Last name_128,Traveling,Monthly,4,No
+Frist_1 Last name_128,Volunteering,Daily,5,Yes
+Frist_1 Last name_112,Music,Monthly,4,No
+Frist_1 Last name_112,Outdoor Sports,Monthly,2,Yes
+Frist_1 Last name_112,Volunteering,Daily,4,No
+Frist_1 Last name_220,Reading,Rarely,4,Yes
+Frist_1 Last name_40,Music,Rarely,2,No
+Frist_1 Last name_40,Cooking,Daily,4,No
+Frist_1 Last name_4,Movies,Monthly,3,No
+Frist_1 Last name_4,Outdoor Sports,Monthly,2,No
+Frist_1 Last name_4,Music,Rarely,1,No
+Frist_1 Last name_76,Social Media,Daily,2,No
+Frist_1 Last name_76,Reading,Weekly,1,No
+Frist_1 Last name_76,Traveling,Rarely,4,Yes
+Frist_1 Last name_76,Movies,Rarely,1,No
+Frist_1 Last name_76,Outdoor Sports,Weekly,2,Yes
+Frist_1 Last name_76,Music,Weekly,4,No
+Frist_1 Last name_76,Cooking,Rarely,5,Yes
+Frist_1 Last name_148,Traveling,Daily,3,Yes
+Frist_1 Last name_148,Volunteering,Monthly,5,Yes
+Frist_1 Last name_148,Reading,Rarely,1,Yes
+Frist_1 Last name_148,Cooking,Rarely,5,Yes
+Frist_1 Last name_148,Movies,Daily,5,Yes
+Frist_1 Last name_148,Music,Monthly,2,No
+Frist_1 Last name_148,Outdoor Sports,Rarely,4,No
+Frist_1 Last name_148,Social Media,Monthly,3,Yes
+Frist_1 Last name_92,Movies,Daily,4,No
+Frist_1 Last name_56,Movies,Monthly,5,Yes
+Frist_1 Last name_200,Movies,Weekly,4,No
+Frist_1 Last name_200,Cooking,Rarely,3,No
+Frist_1 Last name_200,Traveling,Monthly,2,No
+Frist_1 Last name_184,Music,Daily,4,Yes
+Frist_1 Last name_184,Cooking,Weekly,3,Yes
+Frist_1 Last name_256,Outdoor Sports,Monthly,1,No
+Frist_1 Last name_256,Traveling,Monthly,2,No
+Frist_1 Last name_256,Music,Weekly,4,No
+Frist_1 Last name_256,Volunteering,Daily,1,No
+Frist_1 Last name_256,Social Media,Daily,2,Yes
+Frist_1 Last name_256,Reading,Daily,2,No
+Frist_1 Last name_256,Cooking,Rarely,4,No
+Frist_1 Last name_256,Movies,Rarely,4,Yes
+Frist_1 Last name_164,Movies,Daily,4,No
+Frist_1 Last name_164,Outdoor Sports,Rarely,2,Yes
+Frist_1 Last name_164,Cooking,Rarely,4,Yes
+Frist_1 Last name_164,Volunteering,Weekly,1,Yes
+Frist_1 Last name_164,Music,Rarely,5,Yes
+Frist_1 Last name_228,Volunteering,Rarely,5,No
+Frist_1 Last name_228,Traveling,Weekly,3,Yes
+Frist_1 Last name_228,Cooking,Rarely,3,Yes
+Frist_1 Last name_228,Reading,Rarely,4,Yes
+Frist_1 Last name_228,Movies,Daily,4,Yes
+Frist_1 Last name_264,Cooking,Monthly,1,No
+Frist_1 Last name_264,Reading,Rarely,1,No
+Frist_1 Last name_264,Volunteering,Weekly,2,Yes
+Frist_1 Last name_264,Outdoor Sports,Monthly,2,Yes
+Frist_1 Last name_264,Music,Rarely,1,No
+Frist_1 Last name_48,Movies,Monthly,3,Yes
+Frist_1 Last name_48,Social Media,Daily,4,Yes
+Frist_1 Last name_12,Music,Monthly,3,Yes
+Frist_1 Last name_12,Social Media,Weekly,3,No
+Frist_1 Last name_12,Movies,Monthly,4,No
+Frist_1 Last name_12,Cooking,Weekly,1,Yes
+Frist_1 Last name_12,Outdoor Sports,Monthly,4,No
+Frist_1 Last name_12,Volunteering,Rarely,1,Yes
+Frist_1 Last name_84,Cooking,Monthly,2,Yes
+Frist_1 Last name_84,Music,Daily,5,No
+Frist_1 Last name_84,Traveling,Weekly,5,No
+Frist_1 Last name_156,Traveling,Monthly,2,No
+Frist_1 Last name_156,Volunteering,Daily,4,No
+Frist_1 Last name_192,Reading,Daily,3,No
+Frist_1 Last name_192,Outdoor Sports,Daily,5,Yes
+Frist_1 Last name_192,Music,Daily,1,No
+Frist_1 Last name_192,Cooking,Monthly,5,Yes
+Frist_1 Last name_192,Social Media,Monthly,1,Yes
+Frist_1 Last name_192,Traveling,Rarely,2,Yes
+Frist_1 Last name_192,Movies,Weekly,5,Yes
+Frist_1 Last name_192,Volunteering,Rarely,1,Yes
+Frist_1 Last name_120,Volunteering,Weekly,4,No
+Frist_1 Last name_120,Traveling,Rarely,1,No
+Frist_1 Last name_104,Outdoor Sports,Monthly,1,No
+Frist_1 Last name_68,Cooking,Monthly,2,Yes
+Frist_1 Last name_68,Movies,Monthly,1,Yes
+Frist_1 Last name_68,Outdoor Sports,Daily,2,No
+Frist_1 Last name_68,Social Media,Monthly,2,No
+Frist_1 Last name_68,Traveling,Weekly,3,Yes
+Frist_1 Last name_140,Music,Daily,5,Yes
+Frist_1 Last name_140,Social Media,Daily,5,Yes
+Frist_1 Last name_140,Reading,Rarely,2,Yes
+Frist_1 Last name_140,Traveling,Monthly,3,No
+Frist_1 Last name_140,Volunteering,Rarely,2,Yes
+Frist_1 Last name_212,Movies,Rarely,2,Yes
+Frist_1 Last name_32,Volunteering,Daily,4,Yes
+Frist_1 Last name_32,Music,Monthly,2,No
+Frist_1 Last name_32,Reading,Rarely,4,No
+Frist_1 Last name_32,Traveling,Rarely,3,Yes
+Frist_1 Last name_32,Cooking,Daily,4,Yes
+Frist_1 Last name_32,Movies,Weekly,5,Yes
+Frist_1 Last name_176,Cooking,Monthly,2,No
+Frist_1 Last name_176,Reading,Daily,4,Yes
+Frist_1 Last name_176,Music,Daily,3,No
+Frist_1 Last name_176,Outdoor Sports,Rarely,2,No
+Frist_1 Last name_176,Traveling,Rarely,5,Yes
+Frist_1 Last name_248,Reading,Daily,5,No
+Frist_1 Last name_248,Music,Daily,2,Yes
+Frist_1 Last name_248,Outdoor Sports,Daily,1,No
+Frist_1 Last name_248,Traveling,Weekly,4,Yes
+Frist_1 Last name_248,Cooking,Monthly,1,No
+Frist_1 Last name_252,Volunteering,Monthly,1,No
+Frist_1 Last name_216,Volunteering,Weekly,2,No
+Frist_1 Last name_216,Social Media,Daily,2,No
+Frist_1 Last name_216,Music,Weekly,3,Yes
+Frist_1 Last name_216,Outdoor Sports,Rarely,5,No
+Frist_1 Last name_216,Cooking,Weekly,1,No
+Frist_1 Last name_216,Movies,Monthly,5,Yes
+Frist_1 Last name_216,Traveling,Daily,2,No
+Frist_1 Last name_216,Reading,Daily,2,Yes
+Frist_1 Last name_180,Social Media,Weekly,1,No
+Frist_1 Last name_180,Traveling,Rarely,3,Yes
+Frist_1 Last name_180,Outdoor Sports,Rarely,5,Yes
+Frist_1 Last name_180,Reading,Daily,3,No
+Frist_1 Last name_180,Volunteering,Weekly,2,No
+Frist_1 Last name_144,Cooking,Daily,5,No
+Frist_1 Last name_144,Movies,Weekly,2,No
+Frist_1 Last name_36,Music,Daily,2,Yes
+Frist_1 Last name_36,Social Media,Monthly,4,No
+Frist_1 Last name_36,Movies,Rarely,3,Yes
+Frist_1 Last name_72,Music,Daily,5,No
+Frist_1 Last name_72,Social Media,Monthly,3,No
+Frist_1 Last name_108,Social Media,Daily,2,Yes
+Frist_1 Last name_108,Volunteering,Monthly,5,Yes
+Frist_1 Last name_108,Outdoor Sports,Monthly,5,Yes
+Frist_1 Last name_284,Traveling,Monthly,3,Yes
+Frist_1 Last name_284,Outdoor Sports,Monthly,1,Yes
+Frist_1 Last name_284,Music,Daily,3,No
+Frist_1 Last name_284,Reading,Rarely,5,Yes
+Frist_1 Last name_284,Volunteering,Monthly,2,No
+Frist_1 Last name_284,Social Media,Weekly,1,Yes
+Frist_1 Last name_284,Movies,Rarely,3,Yes
+Frist_1 Last name_284,Cooking,Monthly,4,No
+Frist_1 Last name_288,Social Media,Daily,1,No
+Frist_1 Last name_288,Movies,Monthly,2,No
+Frist_1 Last name_288,Cooking,Weekly,1,No
+Frist_2 Last name_237,Reading,Monthly,3,No
+Frist_2 Last name_237,Traveling,Rarely,3,Yes
+Frist_2 Last name_237,Music,Rarely,4,No
+Frist_2 Last name_237,Volunteering,Daily,5,No
+Frist_2 Last name_237,Social Media,Daily,2,No
+Frist_2 Last name_237,Movies,Daily,1,No
+Frist_2 Last name_201,Music,Weekly,4,Yes
+Frist_2 Last name_201,Volunteering,Monthly,5,Yes
+Frist_2 Last name_201,Social Media,Weekly,1,No
+Frist_2 Last name_57,Social Media,Rarely,3,No
+Frist_2 Last name_57,Music,Monthly,3,Yes
+Frist_2 Last name_57,Traveling,Rarely,5,No
+Frist_2 Last name_57,Reading,Monthly,5,Yes
+Frist_2 Last name_57,Volunteering,Weekly,1,Yes
+Frist_2 Last name_57,Movies,Weekly,3,No
+Frist_2 Last name_57,Cooking,Daily,1,Yes
+Frist_2 Last name_57,Outdoor Sports,Weekly,4,Yes
+Frist_2 Last name_129,Reading,Daily,1,No
+Frist_2 Last name_129,Music,Daily,4,Yes
+Frist_2 Last name_165,Outdoor Sports,Weekly,3,No
+Frist_2 Last name_165,Traveling,Monthly,3,No
+Frist_2 Last name_165,Volunteering,Weekly,3,No
+Frist_2 Last name_165,Reading,Weekly,3,Yes
+Frist_2 Last name_165,Music,Rarely,4,Yes
+Frist_2 Last name_93,Volunteering,Daily,3,No
+Frist_2 Last name_93,Movies,Weekly,1,No
+Frist_2 Last name_273,Cooking,Weekly,2,No
+Frist_2 Last name_273,Music,Weekly,4,Yes
+Frist_2 Last name_273,Social Media,Monthly,5,Yes
+Frist_2 Last name_273,Traveling,Daily,5,Yes
+Frist_2 Last name_273,Reading,Rarely,3,Yes
+Frist_2 Last name_65,Movies,Weekly,2,Yes
+Frist_2 Last name_65,Outdoor Sports,Weekly,4,No
+Frist_2 Last name_65,Cooking,Daily,1,Yes
+Frist_2 Last name_65,Traveling,Daily,4,Yes
+Frist_2 Last name_21,Movies,Daily,1,No
+Frist_2 Last name_21,Reading,Monthly,1,Yes
+Frist_2 Last name_137,Movies,Weekly,1,Yes
+Frist_2 Last name_137,Reading,Monthly,4,Yes
+Frist_2 Last name_137,Outdoor Sports,Monthly,4,No
+Frist_2 Last name_137,Cooking,Rarely,3,Yes
+Frist_2 Last name_245,Traveling,Weekly,4,Yes
+Frist_2 Last name_245,Volunteering,Daily,5,No
+Frist_2 Last name_245,Cooking,Daily,1,Yes
+Frist_2 Last name_245,Music,Monthly,2,Yes
+Frist_2 Last name_281,Social Media,Daily,2,No
+Frist_2 Last name_281,Reading,Rarely,3,Yes
+Frist_2 Last name_281,Outdoor Sports,Weekly,2,Yes
+Frist_2 Last name_281,Cooking,Monthly,4,No
+Frist_2 Last name_101,Social Media,Daily,5,Yes
+Frist_2 Last name_101,Traveling,Weekly,2,Yes
+Frist_2 Last name_29,Reading,Weekly,3,No
+Frist_2 Last name_29,Movies,Weekly,5,No
+Frist_2 Last name_209,Social Media,Monthly,1,No
+Frist_2 Last name_209,Outdoor Sports,Weekly,4,No
+Frist_2 Last name_209,Traveling,Rarely,3,No
+Frist_2 Last name_209,Cooking,Weekly,2,Yes
+Frist_2 Last name_209,Movies,Monthly,5,No
+Frist_2 Last name_209,Music,Daily,5,Yes
+Frist_2 Last name_209,Volunteering,Daily,1,Yes
+Frist_2 Last name_209,Reading,Rarely,1,No
+Frist_2 Last name_173,Social Media,Rarely,4,No
+Frist_2 Last name_173,Volunteering,Monthly,1,No
+Frist_2 Last name_105,Cooking,Weekly,1,Yes
+Frist_2 Last name_265,Movies,Monthly,4,No
+Frist_2 Last name_265,Cooking,Weekly,4,No
+Frist_2 Last name_265,Social Media,Monthly,5,Yes
+Frist_2 Last name_229,Social Media,Daily,3,No
+Frist_2 Last name_229,Cooking,Monthly,4,No
+Frist_2 Last name_229,Traveling,Weekly,1,Yes
+Frist_2 Last name_229,Music,Rarely,5,No
+Frist_2 Last name_229,Movies,Monthly,4,No
+Frist_2 Last name_193,Music,Daily,3,Yes
+Frist_2 Last name_69,Movies,Monthly,5,No
+Frist_2 Last name_69,Traveling,Rarely,1,Yes
+Frist_2 Last name_69,Reading,Weekly,5,No
+Frist_2 Last name_157,Social Media,Daily,5,No
+Frist_2 Last name_157,Volunteering,Weekly,1,No
+Frist_2 Last name_157,Music,Rarely,2,Yes
+Frist_2 Last name_157,Movies,Rarely,4,Yes
+Frist_2 Last name_157,Reading,Rarely,2,Yes
+Frist_2 Last name_157,Traveling,Daily,2,No
+Frist_2 Last name_177,Reading,Weekly,4,Yes
+Frist_2 Last name_177,Volunteering,Monthly,5,Yes
+Frist_2 Last name_33,Social Media,Rarely,2,No
+Frist_2 Last name_85,Social Media,Weekly,5,No
+Frist_2 Last name_85,Volunteering,Rarely,5,No
+Frist_2 Last name_85,Movies,Weekly,1,No
+Frist_2 Last name_85,Outdoor Sports,Monthly,3,No
+Frist_2 Last name_249,Volunteering,Daily,2,No
+Frist_2 Last name_249,Social Media,Rarely,2,No
+Frist_2 Last name_249,Music,Weekly,3,Yes
+Frist_2 Last name_249,Reading,Monthly,4,No
+Frist_2 Last name_249,Cooking,Monthly,3,Yes
+Frist_2 Last name_249,Movies,Monthly,1,No
+Frist_2 Last name_249,Outdoor Sports,Daily,2,No
+Frist_2 Last name_249,Traveling,Monthly,1,No
+Frist_2 Last name_141,Reading,Weekly,5,Yes
+Frist_2 Last name_141,Volunteering,Monthly,1,No
+Frist_2 Last name_141,Outdoor Sports,Monthly,3,No
+Frist_2 Last name_49,Cooking,Monthly,3,No
+Frist_2 Last name_49,Traveling,Monthly,4,Yes
+Frist_2 Last name_49,Reading,Daily,3,Yes
+Frist_2 Last name_49,Social Media,Weekly,3,Yes
+Frist_2 Last name_213,Music,Rarely,5,Yes
+Frist_2 Last name_13,Music,Daily,2,No
+Frist_2 Last name_13,Reading,Monthly,5,Yes
+Frist_2 Last name_13,Cooking,Rarely,4,No
+Frist_2 Last name_13,Traveling,Weekly,3,Yes
+Frist_2 Last name_13,Outdoor Sports,Rarely,1,Yes
+Frist_2 Last name_121,Traveling,Weekly,4,Yes
+Frist_2 Last name_121,Outdoor Sports,Daily,5,No
+Frist_2 Last name_121,Cooking,Weekly,2,No
+Frist_2 Last name_241,Traveling,Weekly,3,No
+Frist_2 Last name_241,Music,Rarely,4,No
+Frist_2 Last name_205,Movies,Monthly,5,Yes
+Frist_2 Last name_205,Music,Weekly,2,No
+Frist_2 Last name_205,Volunteering,Daily,3,No
+Frist_2 Last name_205,Cooking,Weekly,4,Yes
+Frist_2 Last name_205,Traveling,Weekly,5,Yes
+Frist_2 Last name_205,Social Media,Monthly,4,Yes
+Frist_2 Last name_189,Volunteering,Rarely,3,Yes
+Frist_2 Last name_189,Music,Rarely,2,Yes
+Frist_2 Last name_189,Reading,Monthly,2,No
+Frist_2 Last name_45,Music,Weekly,2,No
+Frist_2 Last name_45,Reading,Rarely,1,Yes
+Frist_2 Last name_45,Movies,Weekly,3,Yes
+Frist_2 Last name_45,Traveling,Rarely,5,Yes
+Frist_2 Last name_45,Social Media,Daily,1,No
+Frist_2 Last name_45,Volunteering,Weekly,2,Yes
+Frist_2 Last name_9,Traveling,Monthly,4,Yes
+Frist_2 Last name_9,Music,Daily,3,Yes
+Frist_2 Last name_9,Social Media,Daily,5,No
+Frist_2 Last name_9,Volunteering,Monthly,2,Yes
+Frist_2 Last name_9,Movies,Weekly,1,Yes
+Frist_2 Last name_9,Reading,Daily,5,Yes
+Frist_2 Last name_9,Cooking,Rarely,2,No
+Frist_2 Last name_9,Outdoor Sports,Weekly,3,No
+Frist_2 Last name_225,Traveling,Weekly,1,No
+Frist_2 Last name_225,Music,Rarely,4,No
+Frist_2 Last name_225,Cooking,Weekly,4,Yes
+Frist_2 Last name_225,Outdoor Sports,Weekly,5,No
+Frist_2 Last name_261,Outdoor Sports,Monthly,3,Yes
+Frist_2 Last name_261,Volunteering,Daily,4,No
+Frist_2 Last name_261,Movies,Rarely,4,Yes
+Frist_2 Last name_261,Reading,Daily,5,Yes
+Frist_2 Last name_261,Social Media,Monthly,1,Yes
+Frist_2 Last name_261,Music,Daily,2,Yes
+Frist_2 Last name_261,Cooking,Rarely,1,Yes
+Frist_2 Last name_133,Traveling,Monthly,3,No
+Frist_2 Last name_133,Cooking,Daily,1,No
+Frist_2 Last name_133,Volunteering,Weekly,1,Yes
+Frist_2 Last name_61,Music,Daily,2,Yes
+Frist_2 Last name_61,Reading,Monthly,4,No
+Frist_2 Last name_61,Traveling,Weekly,2,Yes
+Frist_2 Last name_61,Social Media,Weekly,3,No
+Frist_2 Last name_61,Outdoor Sports,Weekly,1,Yes
+Frist_2 Last name_61,Movies,Daily,1,Yes
+Frist_2 Last name_61,Volunteering,Rarely,1,Yes
+Frist_2 Last name_61,Cooking,Daily,2,Yes
+Frist_2 Last name_97,Reading,Daily,1,No
+Frist_2 Last name_97,Volunteering,Daily,5,No
+Frist_2 Last name_97,Music,Monthly,3,No
+Frist_2 Last name_97,Movies,Daily,4,No
+Frist_2 Last name_97,Traveling,Daily,2,Yes
+Frist_2 Last name_97,Cooking,Daily,2,No
+Frist_2 Last name_169,Traveling,Monthly,4,No
+Frist_2 Last name_169,Music,Daily,3,Yes
+Frist_2 Last name_169,Cooking,Monthly,3,Yes
+Frist_2 Last name_169,Social Media,Daily,4,Yes
+Frist_2 Last name_169,Reading,Monthly,4,Yes
+Frist_2 Last name_169,Movies,Daily,5,No
+Frist_2 Last name_169,Outdoor Sports,Monthly,4,No
+Frist_2 Last name_25,Cooking,Rarely,1,No
+Frist_2 Last name_25,Outdoor Sports,Weekly,3,Yes
+Frist_2 Last name_25,Reading,Weekly,4,No
+Frist_2 Last name_25,Movies,Weekly,3,No
+Frist_2 Last name_25,Social Media,Monthly,4,No
+Frist_2 Last name_25,Traveling,Daily,5,Yes
+Frist_2 Last name_117,Volunteering,Weekly,1,Yes
+Frist_2 Last name_117,Social Media,Daily,4,No
+Frist_2 Last name_117,Reading,Monthly,2,Yes
+Frist_2 Last name_277,Cooking,Rarely,2,Yes
+Frist_2 Last name_277,Movies,Rarely,5,Yes
+Frist_2 Last name_277,Traveling,Weekly,3,Yes
+Frist_2 Last name_277,Outdoor Sports,Rarely,5,No
+Frist_2 Last name_277,Reading,Monthly,3,Yes
+Frist_2 Last name_277,Social Media,Rarely,3,Yes
+Frist_2 Last name_277,Volunteering,Rarely,4,No
+Frist_2 Last name_277,Music,Daily,3,No
+Frist_2 Last name_81,Movies,Monthly,1,Yes
+Frist_2 Last name_81,Reading,Weekly,3,Yes
+Frist_2 Last name_81,Outdoor Sports,Monthly,3,No
+Frist_2 Last name_81,Volunteering,Rarely,4,No
+Frist_2 Last name_81,Music,Monthly,2,No
+Frist_2 Last name_81,Social Media,Daily,5,Yes
+Frist_2 Last name_153,Music,Rarely,2,No
+Frist_2 Last name_153,Volunteering,Rarely,1,No
+Frist_2 Last name_153,Movies,Rarely,1,No
+Frist_2 Last name_125,Music,Daily,3,No
+Frist_2 Last name_125,Outdoor Sports,Rarely,1,Yes
+Frist_2 Last name_125,Traveling,Rarely,4,Yes
+Frist_2 Last name_125,Social Media,Daily,3,No
+Frist_2 Last name_125,Movies,Monthly,2,No
+Frist_2 Last name_125,Cooking,Monthly,4,No
+Frist_2 Last name_53,Traveling,Weekly,3,Yes
+Frist_2 Last name_269,Outdoor Sports,Monthly,2,No
+Frist_2 Last name_269,Cooking,Weekly,5,Yes
+Frist_2 Last name_269,Traveling,Weekly,1,Yes
+Frist_2 Last name_269,Music,Rarely,3,No
+Frist_2 Last name_269,Reading,Daily,1,No
+Frist_2 Last name_269,Social Media,Daily,4,No
+Frist_2 Last name_269,Movies,Daily,3,Yes
+Frist_2 Last name_269,Volunteering,Daily,5,Yes
+Frist_2 Last name_89,Cooking,Rarely,3,Yes
+Frist_2 Last name_89,Music,Daily,4,Yes
+Frist_2 Last name_89,Outdoor Sports,Rarely,3,No
+Frist_2 Last name_89,Volunteering,Monthly,3,No
+Frist_2 Last name_89,Reading,Rarely,3,No
+Frist_2 Last name_89,Traveling,Weekly,3,Yes
+Frist_2 Last name_89,Social Media,Weekly,4,Yes
+Frist_2 Last name_17,Music,Rarely,1,No
+Frist_2 Last name_17,Movies,Weekly,1,Yes
+Frist_2 Last name_17,Traveling,Rarely,4,No
+Frist_2 Last name_17,Cooking,Daily,3,No
+Frist_2 Last name_17,Social Media,Rarely,2,Yes
+Frist_2 Last name_17,Volunteering,Daily,4,No
+Frist_2 Last name_161,Cooking,Weekly,3,Yes
+Frist_2 Last name_161,Music,Monthly,5,Yes
+Frist_2 Last name_161,Social Media,Weekly,2,Yes
+Frist_2 Last name_161,Movies,Daily,4,Yes
+Frist_2 Last name_161,Outdoor Sports,Weekly,5,Yes
+Frist_2 Last name_161,Traveling,Rarely,2,Yes
+Frist_2 Last name_197,Reading,Weekly,2,No
+Frist_2 Last name_197,Social Media,Rarely,5,Yes
+Frist_2 Last name_197,Outdoor Sports,Weekly,5,No
+Frist_2 Last name_197,Traveling,Monthly,2,No
+Frist_2 Last name_197,Cooking,Daily,3,No
+Frist_2 Last name_233,Social Media,Rarely,5,No
+Frist_2 Last name_233,Music,Weekly,4,No
+Frist_2 Last name_233,Reading,Rarely,2,Yes
+Frist_2 Last name_233,Cooking,Weekly,4,No
+Frist_2 Last name_233,Movies,Rarely,1,No
+Frist_2 Last name_233,Traveling,Monthly,3,Yes
+Frist_2 Last name_181,Social Media,Weekly,1,No
+Frist_2 Last name_181,Outdoor Sports,Rarely,4,No
+Frist_2 Last name_145,Outdoor Sports,Daily,4,No
+Frist_2 Last name_145,Movies,Daily,5,Yes
+Frist_2 Last name_217,Traveling,Rarely,1,No
+Frist_2 Last name_217,Cooking,Rarely,5,No
+Frist_2 Last name_217,Social Media,Daily,1,No
+Frist_2 Last name_217,Volunteering,Monthly,1,No
+Frist_2 Last name_217,Reading,Monthly,4,No
+Frist_2 Last name_253,Outdoor Sports,Daily,3,Yes
+Frist_2 Last name_253,Social Media,Monthly,2,Yes
+Frist_2 Last name_253,Music,Monthly,3,No
+Frist_2 Last name_253,Volunteering,Weekly,1,No
+Frist_2 Last name_253,Cooking,Weekly,1,Yes
+Frist_2 Last name_253,Movies,Monthly,1,No
+Frist_2 Last name_73,Reading,Monthly,3,Yes
+Frist_2 Last name_73,Social Media,Weekly,1,No
+Frist_2 Last name_73,Music,Weekly,3,No
+Frist_2 Last name_73,Cooking,Weekly,3,Yes
+Frist_2 Last name_73,Movies,Daily,2,Yes
+Frist_2 Last name_73,Traveling,Daily,3,Yes
+Frist_2 Last name_73,Volunteering,Weekly,3,Yes
+Frist_2 Last name_109,Music,Weekly,5,Yes
+Frist_2 Last name_109,Movies,Rarely,3,No
+Frist_2 Last name_109,Social Media,Rarely,1,Yes
+Frist_2 Last name_109,Outdoor Sports,Weekly,2,Yes
+Frist_2 Last name_109,Cooking,Monthly,2,Yes
+Frist_2 Last name_109,Reading,Weekly,5,No
+Frist_2 Last name_109,Traveling,Weekly,1,Yes
+Frist_2 Last name_37,Volunteering,Weekly,2,No
+Frist_2 Last name_37,Traveling,Rarely,5,No
+Frist_2 Last name_37,Cooking,Rarely,3,Yes
+Frist_2 Last name_77,Cooking,Monthly,1,No
+Frist_2 Last name_77,Music,Monthly,2,Yes
+Frist_2 Last name_77,Social Media,Weekly,5,No
+Frist_2 Last name_77,Traveling,Rarely,4,No
+Frist_2 Last name_77,Volunteering,Rarely,2,No
+Frist_2 Last name_41,Movies,Rarely,1,No
+Frist_2 Last name_41,Cooking,Monthly,3,No
+Frist_2 Last name_41,Traveling,Weekly,2,Yes
+Frist_2 Last name_113,Traveling,Rarely,5,Yes
+Frist_2 Last name_257,Cooking,Daily,4,Yes
+Frist_2 Last name_221,Movies,Daily,1,No
+Frist_2 Last name_221,Cooking,Rarely,3,No
+Frist_2 Last name_221,Music,Monthly,3,Yes
+Frist_2 Last name_185,Volunteering,Monthly,1,No
+Frist_2 Last name_185,Movies,Daily,2,No
+Frist_2 Last name_185,Cooking,Monthly,3,No
+Frist_2 Last name_185,Music,Monthly,4,Yes
+Frist_2 Last name_185,Outdoor Sports,Weekly,2,Yes
+Frist_2 Last name_185,Reading,Monthly,5,No
+Frist_2 Last name_185,Social Media,Weekly,1,Yes
+Frist_2 Last name_185,Traveling,Rarely,1,Yes
+Frist_2 Last name_149,Reading,Daily,1,No
+Frist_2 Last name_149,Cooking,Weekly,4,Yes
+Frist_2 Last name_149,Volunteering,Monthly,3,No
+Frist_2 Last name_5,Outdoor Sports,Rarely,1,No
+Frist_2 Last name_5,Social Media,Monthly,5,Yes
+Frist_2 Last name_5,Cooking,Weekly,4,Yes
+Frist_2 Last name_5,Music,Rarely,4,No
+Frist_2 Last name_5,Movies,Weekly,4,No
+Frist_2 Last name_5,Traveling,Monthly,1,No
+Frist_2 Last name_5,Reading,Rarely,5,No
+Frist_2 Last name_285,Cooking,Weekly,1,Yes
+Frist_2 Last name_285,Volunteering,Rarely,5,Yes
+Frist_2 Last name_289,Outdoor Sports,Rarely,5,Yes
+Frist_2 Last name_289,Music,Daily,2,Yes
+Frist_2 Last name_289,Cooking,Rarely,5,No
+Frist_2 Last name_289,Movies,Daily,5,No
+Frist_1 Last name_195,Social Media,Daily,4,Yes
+Frist_1 Last name_195,Volunteering,Daily,2,No
+Frist_1 Last name_195,Music,Daily,3,No
+Frist_1 Last name_195,Outdoor Sports,Weekly,1,Yes
+Frist_1 Last name_187,Volunteering,Monthly,3,No
+Frist_1 Last name_187,Music,Daily,3,No
+Frist_1 Last name_187,Social Media,Rarely,1,No
+Frist_1 Last name_267,Outdoor Sports,Rarely,5,Yes
+Frist_1 Last name_267,Traveling,Rarely,3,No
+Frist_1 Last name_267,Reading,Monthly,4,No
+Frist_1 Last name_267,Volunteering,Rarely,2,Yes
+Frist_1 Last name_231,Social Media,Monthly,2,No
+Frist_1 Last name_231,Cooking,Rarely,3,Yes
+Frist_1 Last name_231,Outdoor Sports,Rarely,5,No
+Frist_1 Last name_231,Volunteering,Weekly,2,No
+Frist_1 Last name_231,Movies,Weekly,5,No
+Frist_1 Last name_7,Traveling,Rarely,3,No
+Frist_1 Last name_7,Outdoor Sports,Daily,3,No
+Frist_1 Last name_7,Reading,Daily,4,No
+Frist_1 Last name_7,Movies,Daily,4,Yes
+Frist_1 Last name_7,Cooking,Rarely,3,No
+Frist_1 Last name_151,Cooking,Monthly,4,No
+Frist_1 Last name_151,Social Media,Rarely,3,No
+Frist_1 Last name_151,Music,Daily,3,No
+Frist_1 Last name_151,Traveling,Daily,1,No
+Frist_1 Last name_151,Volunteering,Monthly,1,No
+Frist_1 Last name_151,Outdoor Sports,Rarely,4,Yes
+Frist_1 Last name_51,Outdoor Sports,Rarely,4,No
+Frist_1 Last name_51,Movies,Daily,5,No
+Frist_1 Last name_51,Cooking,Daily,1,Yes
+Frist_1 Last name_51,Social Media,Weekly,2,No
+Frist_1 Last name_51,Traveling,Rarely,5,No
+Frist_1 Last name_51,Reading,Monthly,5,Yes
+Frist_1 Last name_51,Volunteering,Rarely,1,No
+Frist_1 Last name_51,Music,Rarely,1,Yes
+Frist_1 Last name_87,Cooking,Weekly,1,No
+Frist_1 Last name_87,Reading,Daily,1,Yes
+Frist_1 Last name_87,Movies,Monthly,3,Yes
+Frist_1 Last name_87,Traveling,Daily,4,No
+Frist_1 Last name_87,Social Media,Weekly,5,Yes
+Frist_1 Last name_87,Outdoor Sports,Daily,5,Yes
+Frist_1 Last name_87,Music,Weekly,2,No
+Frist_1 Last name_259,Volunteering,Rarely,2,Yes
+Frist_1 Last name_259,Traveling,Weekly,2,Yes
+Frist_1 Last name_259,Social Media,Monthly,5,Yes
+Frist_1 Last name_259,Movies,Daily,1,No
+Frist_1 Last name_259,Cooking,Rarely,4,No
+Frist_1 Last name_223,Cooking,Monthly,3,Yes
+Frist_1 Last name_223,Volunteering,Rarely,5,Yes
+Frist_1 Last name_223,Traveling,Daily,2,No
+Frist_1 Last name_223,Reading,Daily,1,Yes
+Frist_1 Last name_223,Movies,Daily,3,No
+Frist_1 Last name_223,Music,Monthly,3,No
+Frist_1 Last name_223,Outdoor Sports,Daily,4,Yes
+Frist_1 Last name_223,Social Media,Monthly,2,No
+Frist_1 Last name_115,Outdoor Sports,Weekly,2,No
+Frist_1 Last name_115,Cooking,Daily,4,Yes
+Frist_1 Last name_115,Movies,Monthly,5,No
+Frist_1 Last name_115,Volunteering,Weekly,4,Yes
+Frist_1 Last name_115,Social Media,Monthly,3,Yes
+Frist_1 Last name_115,Traveling,Monthly,1,Yes
+Frist_1 Last name_115,Reading,Weekly,2,No
+Frist_1 Last name_79,Cooking,Weekly,4,No
+Frist_1 Last name_79,Movies,Monthly,3,Yes
+Frist_1 Last name_79,Volunteering,Daily,1,No
+Frist_1 Last name_79,Outdoor Sports,Monthly,3,Yes
+Frist_1 Last name_159,Volunteering,Monthly,2,Yes
+Frist_1 Last name_159,Social Media,Daily,2,No
+Frist_1 Last name_159,Cooking,Monthly,3,No
+Frist_1 Last name_159,Movies,Daily,3,No
+Frist_1 Last name_159,Reading,Weekly,4,Yes
+Frist_1 Last name_123,Outdoor Sports,Weekly,2,Yes
+Frist_1 Last name_123,Social Media,Weekly,5,Yes
+Frist_1 Last name_123,Reading,Rarely,4,No
+Frist_1 Last name_123,Traveling,Daily,2,No
+Frist_1 Last name_123,Music,Rarely,4,Yes
+Frist_1 Last name_123,Movies,Weekly,2,Yes
+Frist_1 Last name_19,Movies,Rarely,4,No
+Frist_1 Last name_19,Volunteering,Daily,5,No
+Frist_1 Last name_55,Reading,Monthly,3,Yes
+Frist_1 Last name_55,Traveling,Monthly,4,No
+Frist_1 Last name_55,Social Media,Daily,3,Yes
+Frist_1 Last name_55,Outdoor Sports,Weekly,4,No
+Frist_1 Last name_55,Movies,Daily,5,No
+Frist_1 Last name_91,Volunteering,Daily,3,Yes
+Frist_1 Last name_91,Traveling,Rarely,4,Yes
+Frist_1 Last name_91,Music,Rarely,4,No
+Frist_1 Last name_91,Reading,Daily,2,No
+Frist_1 Last name_91,Movies,Daily,1,No
+Frist_1 Last name_71,Social Media,Weekly,1,Yes
+Frist_1 Last name_71,Reading,Daily,2,Yes
+Frist_1 Last name_35,Movies,Rarely,2,No
+Frist_1 Last name_35,Reading,Weekly,1,No
+Frist_1 Last name_35,Social Media,Monthly,4,Yes
+Frist_1 Last name_35,Volunteering,Monthly,3,Yes
+Frist_1 Last name_163,Movies,Daily,1,Yes
+Frist_1 Last name_163,Traveling,Weekly,4,No
+Frist_1 Last name_271,Traveling,Daily,3,Yes
+Frist_1 Last name_271,Outdoor Sports,Daily,1,No
+Frist_1 Last name_271,Movies,Monthly,1,No
+Frist_1 Last name_271,Social Media,Weekly,4,Yes
+Frist_1 Last name_271,Volunteering,Weekly,2,No
+Frist_1 Last name_127,Traveling,Weekly,5,Yes
+Frist_1 Last name_127,Music,Weekly,4,Yes
+Frist_1 Last name_127,Volunteering,Monthly,3,Yes
+Frist_1 Last name_251,Cooking,Weekly,3,Yes
+Frist_1 Last name_251,Traveling,Weekly,5,Yes
+Frist_1 Last name_251,Volunteering,Daily,2,Yes
+Frist_1 Last name_251,Social Media,Rarely,1,No
+Frist_1 Last name_179,Outdoor Sports,Monthly,4,No
+Frist_1 Last name_179,Movies,Rarely,3,Yes
+Frist_1 Last name_179,Volunteering,Monthly,4,Yes
+Frist_1 Last name_215,Cooking,Weekly,5,Yes
+Frist_1 Last name_215,Movies,Monthly,4,Yes
+Frist_1 Last name_215,Reading,Weekly,1,Yes
+Frist_1 Last name_215,Outdoor Sports,Weekly,5,Yes
+Frist_1 Last name_215,Volunteering,Daily,4,Yes
+Frist_1 Last name_215,Music,Rarely,2,Yes
+Frist_1 Last name_107,Reading,Monthly,2,Yes
+Frist_1 Last name_107,Cooking,Monthly,2,No
+Frist_1 Last name_107,Music,Rarely,3,No
+Frist_1 Last name_107,Social Media,Weekly,1,No
+Frist_1 Last name_199,Movies,Rarely,1,Yes
+Frist_1 Last name_199,Reading,Daily,4,No
+Frist_1 Last name_199,Volunteering,Daily,4,No
+Frist_1 Last name_199,Outdoor Sports,Monthly,3,No
+Frist_1 Last name_199,Traveling,Weekly,3,Yes
+Frist_1 Last name_199,Social Media,Daily,5,Yes
+Frist_1 Last name_199,Music,Weekly,5,Yes
+Frist_1 Last name_199,Cooking,Weekly,1,No
+Frist_1 Last name_235,Movies,Daily,4,No
+Frist_1 Last name_235,Volunteering,Monthly,3,Yes
+Frist_1 Last name_235,Traveling,Monthly,4,No
+Frist_1 Last name_235,Reading,Monthly,4,No
+Frist_1 Last name_235,Outdoor Sports,Daily,4,No
+Frist_1 Last name_143,Traveling,Monthly,5,No
+Frist_1 Last name_143,Social Media,Weekly,4,No
+Frist_1 Last name_143,Music,Daily,3,Yes
+Frist_1 Last name_143,Reading,Rarely,4,No
+Frist_1 Last name_143,Outdoor Sports,Rarely,3,No
+Frist_1 Last name_143,Cooking,Monthly,3,No
+Frist_1 Last name_143,Volunteering,Rarely,2,Yes
+Frist_1 Last name_191,Volunteering,Weekly,5,Yes
+Frist_1 Last name_191,Social Media,Monthly,2,Yes
+Frist_1 Last name_191,Reading,Weekly,4,No
+Frist_1 Last name_191,Outdoor Sports,Weekly,5,No
+Frist_1 Last name_191,Traveling,Weekly,5,No
+Frist_1 Last name_155,Movies,Daily,2,No
+Frist_1 Last name_155,Cooking,Rarely,1,No
+Frist_1 Last name_155,Traveling,Weekly,1,No
+Frist_1 Last name_155,Volunteering,Rarely,5,No
+Frist_1 Last name_155,Social Media,Rarely,2,Yes
+Frist_1 Last name_155,Outdoor Sports,Monthly,5,Yes
+Frist_1 Last name_31,Social Media,Monthly,2,Yes
+Frist_1 Last name_31,Music,Daily,5,Yes
+Frist_1 Last name_31,Volunteering,Weekly,2,Yes
+Frist_1 Last name_31,Reading,Daily,5,No
+Frist_1 Last name_31,Outdoor Sports,Weekly,1,No
+Frist_1 Last name_31,Cooking,Monthly,1,No
+Frist_1 Last name_31,Movies,Daily,1,No
+Frist_1 Last name_31,Traveling,Weekly,5,Yes
+Frist_1 Last name_103,Outdoor Sports,Rarely,5,Yes
+Frist_1 Last name_103,Cooking,Monthly,1,Yes
+Frist_1 Last name_103,Traveling,Weekly,1,No
+Frist_1 Last name_103,Reading,Weekly,2,Yes
+Frist_1 Last name_103,Movies,Monthly,4,No
+Frist_1 Last name_103,Social Media,Daily,5,No
+Frist_1 Last name_227,Volunteering,Weekly,2,Yes
+Frist_1 Last name_263,Social Media,Weekly,5,Yes
+Frist_1 Last name_263,Traveling,Weekly,3,Yes
+Frist_1 Last name_263,Movies,Monthly,4,No
+Frist_1 Last name_263,Volunteering,Daily,4,No
+Frist_1 Last name_263,Outdoor Sports,Rarely,3,Yes
+Frist_1 Last name_263,Cooking,Weekly,2,No
+Frist_1 Last name_11,Music,Daily,1,Yes
+Frist_1 Last name_11,Traveling,Rarely,5,Yes
+Frist_1 Last name_11,Social Media,Rarely,5,No
+Frist_1 Last name_83,Outdoor Sports,Monthly,3,Yes
+Frist_1 Last name_83,Cooking,Monthly,1,No
+Frist_1 Last name_83,Volunteering,Weekly,1,No
+Frist_1 Last name_47,Traveling,Monthly,4,No
+Frist_1 Last name_47,Volunteering,Monthly,2,Yes
+Frist_1 Last name_119,Social Media,Weekly,2,No
+Frist_1 Last name_119,Cooking,Weekly,4,Yes
+Frist_1 Last name_119,Volunteering,Rarely,4,Yes
+Frist_1 Last name_119,Reading,Weekly,3,No
+Frist_1 Last name_119,Outdoor Sports,Daily,1,Yes
+Frist_1 Last name_67,Volunteering,Daily,1,Yes
+Frist_1 Last name_67,Music,Daily,1,No
+Frist_1 Last name_247,Cooking,Rarely,2,No
+Frist_1 Last name_247,Movies,Rarely,1,Yes
+Frist_1 Last name_247,Social Media,Rarely,1,No
+Frist_1 Last name_247,Traveling,Daily,2,Yes
+Frist_1 Last name_211,Reading,Daily,4,Yes
+Frist_1 Last name_211,Movies,Rarely,5,Yes
+Frist_1 Last name_211,Outdoor Sports,Daily,5,Yes
+Frist_1 Last name_211,Music,Monthly,3,No
+Frist_1 Last name_211,Social Media,Rarely,5,Yes
+Frist_1 Last name_211,Traveling,Rarely,3,No
+Frist_1 Last name_211,Cooking,Daily,4,No
+Frist_1 Last name_175,Traveling,Weekly,3,Yes
+Frist_1 Last name_175,Movies,Rarely,2,Yes
+Frist_1 Last name_175,Outdoor Sports,Monthly,1,Yes
+Frist_1 Last name_175,Volunteering,Daily,2,Yes
+Frist_1 Last name_139,Music,Rarely,2,No
+Frist_1 Last name_147,Social Media,Weekly,5,Yes
+Frist_1 Last name_147,Outdoor Sports,Rarely,1,No
+Frist_1 Last name_147,Music,Rarely,4,No
+Frist_1 Last name_147,Traveling,Daily,3,Yes
+Frist_1 Last name_147,Reading,Weekly,4,No
+Frist_1 Last name_147,Movies,Monthly,1,No
+Frist_1 Last name_39,Movies,Rarely,1,No
+Frist_1 Last name_75,Social Media,Daily,5,Yes
+Frist_1 Last name_75,Outdoor Sports,Rarely,2,Yes
+Frist_1 Last name_75,Cooking,Daily,3,Yes
+Frist_1 Last name_75,Reading,Daily,3,No
+Frist_1 Last name_75,Music,Weekly,3,Yes
+Frist_1 Last name_75,Volunteering,Rarely,5,Yes
+Frist_1 Last name_75,Movies,Rarely,2,No
+Frist_1 Last name_183,Movies,Rarely,3,No
+Frist_1 Last name_183,Outdoor Sports,Rarely,1,Yes
+Frist_1 Last name_183,Music,Weekly,1,Yes
+Frist_1 Last name_183,Cooking,Weekly,1,Yes
+Frist_1 Last name_183,Traveling,Weekly,3,No
+Frist_1 Last name_183,Social Media,Weekly,1,No
+Frist_1 Last name_183,Reading,Rarely,1,Yes
+Frist_1 Last name_183,Volunteering,Daily,1,No
+Frist_1 Last name_111,Volunteering,Daily,2,Yes
+Frist_1 Last name_219,Traveling,Weekly,5,Yes
+Frist_1 Last name_219,Reading,Daily,1,No
+Frist_1 Last name_219,Cooking,Rarely,4,No
+Frist_1 Last name_255,Social Media,Monthly,4,No
+Frist_1 Last name_255,Traveling,Daily,2,Yes
+Frist_1 Last name_255,Music,Monthly,5,No
+Frist_1 Last name_255,Cooking,Rarely,5,Yes
+Frist_1 Last name_255,Outdoor Sports,Weekly,5,Yes
+Frist_1 Last name_255,Reading,Weekly,5,No
+Frist_1 Last name_291,Volunteering,Rarely,3,Yes
+Frist_1 Last name_291,Movies,Monthly,4,Yes
+Frist_1 Last name_291,Traveling,Weekly,1,No
+Frist_1 Last name_291,Music,Weekly,3,Yes
+Frist_1 Last name_291,Social Media,Weekly,3,No
+Frist_1 Last name_291,Cooking,Monthly,2,Yes
+Frist_1 Last name_59,Social Media,Monthly,1,Yes
+Frist_1 Last name_59,Reading,Daily,2,Yes
+Frist_1 Last name_59,Cooking,Rarely,2,No
+Frist_1 Last name_59,Traveling,Rarely,4,No
+Frist_1 Last name_23,Reading,Daily,5,No
+Frist_1 Last name_23,Movies,Weekly,1,No
+Frist_1 Last name_23,Traveling,Rarely,3,No
+Frist_1 Last name_23,Outdoor Sports,Rarely,1,No
+Frist_1 Last name_23,Cooking,Rarely,2,Yes
+Frist_1 Last name_23,Music,Rarely,3,No
+Frist_1 Last name_23,Social Media,Monthly,2,No
+Frist_1 Last name_239,Outdoor Sports,Daily,1,Yes
+Frist_1 Last name_239,Traveling,Daily,2,Yes
+Frist_1 Last name_239,Cooking,Monthly,5,No
+Frist_1 Last name_239,Volunteering,Monthly,5,No
+Frist_1 Last name_275,Movies,Weekly,2,Yes
+Frist_1 Last name_131,Movies,Weekly,4,Yes
+Frist_1 Last name_131,Cooking,Weekly,1,Yes
+Frist_1 Last name_131,Reading,Weekly,2,Yes
+Frist_1 Last name_131,Social Media,Monthly,1,No
+Frist_1 Last name_131,Music,Weekly,5,No
+Frist_1 Last name_95,Music,Monthly,3,No
+Frist_1 Last name_95,Volunteering,Weekly,4,Yes
+Frist_1 Last name_95,Traveling,Monthly,5,No
+Frist_1 Last name_95,Social Media,Daily,1,Yes
+Frist_1 Last name_95,Cooking,Monthly,3,Yes
+Frist_1 Last name_95,Reading,Monthly,3,No
+Frist_1 Last name_95,Movies,Daily,4,Yes
+Frist_1 Last name_95,Outdoor Sports,Rarely,3,No
+Frist_1 Last name_167,Movies,Daily,4,No
+Frist_1 Last name_167,Reading,Rarely,2,No
+Frist_1 Last name_203,Traveling,Daily,5,Yes
+Frist_1 Last name_203,Outdoor Sports,Monthly,5,Yes
+Frist_1 Last name_203,Music,Rarely,2,Yes
+Frist_1 Last name_203,Social Media,Weekly,4,Yes
+Frist_1 Last name_203,Movies,Weekly,1,Yes
+Frist_1 Last name_203,Reading,Weekly,3,Yes
+Frist_1 Last name_27,Movies,Monthly,4,No
+Frist_1 Last name_27,Traveling,Monthly,4,Yes
+Frist_1 Last name_27,Reading,Daily,2,Yes
+Frist_1 Last name_27,Social Media,Monthly,4,Yes
+Frist_1 Last name_63,Social Media,Monthly,1,Yes
+Frist_1 Last name_63,Volunteering,Rarely,5,No
+Frist_1 Last name_243,Traveling,Rarely,5,No
+Frist_1 Last name_243,Reading,Monthly,3,No
+Frist_1 Last name_243,Music,Monthly,3,Yes
+Frist_1 Last name_243,Social Media,Rarely,3,No
+Frist_1 Last name_243,Movies,Daily,1,Yes
+Frist_1 Last name_243,Outdoor Sports,Weekly,3,Yes
+Frist_1 Last name_207,Music,Daily,2,Yes
+Frist_1 Last name_207,Social Media,Rarely,4,No
+Frist_1 Last name_279,Social Media,Monthly,1,No
+Frist_1 Last name_279,Reading,Daily,4,Yes
+Frist_1 Last name_135,Volunteering,Weekly,4,Yes
+Frist_1 Last name_135,Movies,Monthly,5,Yes
+Frist_1 Last name_135,Traveling,Daily,2,No
+Frist_1 Last name_135,Outdoor Sports,Rarely,2,Yes
+Frist_1 Last name_135,Music,Daily,3,No
+Frist_1 Last name_171,Social Media,Weekly,1,No
+Frist_1 Last name_171,Volunteering,Weekly,3,Yes
+Frist_1 Last name_171,Music,Monthly,1,Yes
+Frist_1 Last name_171,Reading,Daily,1,No
+Frist_1 Last name_99,Traveling,Daily,1,No
+Frist_1 Last name_43,Movies,Daily,5,Yes
+Frist_1 Last name_43,Reading,Monthly,4,Yes
+Frist_1 Last name_43,Traveling,Monthly,4,Yes
+Frist_1 Last name_43,Music,Daily,1,No
+Frist_1 Last name_43,Cooking,Monthly,4,Yes
+Frist_1 Last name_15,Music,Monthly,5,Yes
+Frist_1 Last name_15,Outdoor Sports,Weekly,2,Yes
+Frist_1 Last name_15,Social Media,Rarely,2,Yes
+Frist_1 Last name_15,Traveling,Daily,2,No
+Frist_1 Last name_15,Volunteering,Monthly,1,No
+Frist_1 Last name_15,Cooking,Daily,1,No
+Frist_1 Last name_287,Cooking,Rarely,3,No
+Frist_1 Last name_287,Movies,Weekly,4,Yes
+Frist_1 Last name_287,Volunteering,Monthly,1,No
+Frist_1 Last name_287,Traveling,Rarely,5,Yes
+Frist_1 Last name_283,Volunteering,Monthly,2,No
+Frist_1 Last name_283,Outdoor Sports,Rarely,3,No
+Frist_1 Last name_283,Cooking,Weekly,4,Yes
+Frist_1 Last name_3,Volunteering,Weekly,4,No
+Frist_1 Last name_3,Outdoor Sports,Weekly,3,Yes
+Frist_1 Last name_3,Social Media,Daily,3,No
+Frist_1 Last name_3,Reading,Weekly,5,Yes
