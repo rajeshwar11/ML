@@ -1,0 +1,15 @@
+1) Community Health Camp : Age group- 60+, Homeless, No fixed income, Disability( vision/ or others), Drug addict,  
+
+2) Motivator & Community leaders: Awareness level - high/ Medium, Social activities, Peer group influence, Social Media influence
+
+3) Formulary Management : Past medications , Last refill date, Refill due date, Provider visits YTD, Days of Therapy missed
+
+4) Schedule Appointments:
+
+5) Arrange Transportation: No fixed income, Disability, Age 60 +, No partner, LAB/Provider distance, Homelessness
+
+6) Arrange Home Visit: Disability, long term Illness, LAB/Provider distance
+
+7) Need Physical Assistance: No partner, Disability
+
+8) Unknowns
